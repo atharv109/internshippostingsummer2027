@@ -1,0 +1,4 @@
+# One company per line: the slug used in its Ashby/Greenhouse/Lever URL.
+# e.g. jobs.ashbyhq.com/reflect-orbital -> reflect-orbital
+reflect-orbital
+niantic-spatial
