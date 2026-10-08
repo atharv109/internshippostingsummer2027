@@ -1,0 +1,3734 @@
+{
+ "10x": null,
+ "10x Science": null,
+ "1stCollab": null,
+ "222": null,
+ "83 Sciences": null,
+ "9 Mothers": {
+  "ats": "ashby",
+  "batch": "Spring 2026",
+  "slug": "9-mothers",
+  "team_size": 19
+ },
+ "99minutos": null,
+ "AIOS": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "aios",
+  "team_size": 100
+ },
+ "AIVideo.com": null,
+ "AON3D": {
+  "ats": "greenhouse",
+  "batch": "Winter 2017",
+  "slug": "aon3d",
+  "team_size": 40
+ },
+ "ARQ": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "arq",
+  "team_size": 100
+ },
+ "Abacum": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "abacum",
+  "team_size": 125
+ },
+ "Abundant": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "abundant",
+  "team_size": 7
+ },
+ "Accend": null,
+ "Accord": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "accord",
+  "team_size": 20
+ },
+ "Acely": null,
+ "Activeloop": null,
+ "Adam": null,
+ "Adaptional": null,
+ "Adaptyv": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "adaptyv",
+  "team_size": 25
+ },
+ "Adentris": null,
+ "Adialante": null,
+ "Aemon": null,
+ "Afriex": null,
+ "AfterQuery": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "afterquery",
+  "team_size": 30
+ },
+ "Agap\u00e9": null,
+ "Agave": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "agave",
+  "team_size": 50
+ },
+ "Agency": {
+  "ats": "greenhouse",
+  "batch": "Winter 2022",
+  "slug": "agency",
+  "team_size": 50
+ },
+ "AgentMail": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "agentmail",
+  "team_size": 10
+ },
+ "AgentPhone": null,
+ "AgileMD": null,
+ "Aglide": null,
+ "AiPrise": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "aiprise",
+  "team_size": 65
+ },
+ "AirCaps": null,
+ "AirMyne": null,
+ "Airgoods": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "airgoods",
+  "team_size": 10
+ },
+ "Airhart Aeronautics": null,
+ "Airweave": null,
+ "Aktoria Robotics": null,
+ "Akute Health": null,
+ "Alaan": null,
+ "Albedo": {
+  "ats": "greenhouse",
+  "batch": "Winter 2021",
+  "slug": "albedo",
+  "team_size": 55
+ },
+ "Alder": null,
+ "AlemHealth": null,
+ "Aleph": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "aleph",
+  "team_size": 30
+ },
+ "Alex": null,
+ "AlgoTest": null,
+ "AlgoUniversity": null,
+ "Algolia": {
+  "ats": "greenhouse",
+  "batch": "Winter 2014",
+  "slug": "algolia",
+  "team_size": 810
+ },
+ "Alguna": null,
+ "Alinea": null,
+ "Alkali": null,
+ "Allia Health": null,
+ "Allus AI": null,
+ "Almond": null,
+ "Alpaca": {
+  "ats": "greenhouse",
+  "batch": "Winter 2019",
+  "slug": "alpaca",
+  "team_size": 150
+ },
+ "Alpha Vantage": null,
+ "Ambient.ai": null,
+ "Amboras": null,
+ "Ambral": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "ambral",
+  "team_size": 4
+ },
+ "Anara": null,
+ "Andco": null,
+ "Andromeda Surgical": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "andromedasurgical",
+  "team_size": 12
+ },
+ "Andson Biotech": null,
+ "Andy AI": null,
+ "Anglera": null,
+ "Anima": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "anima",
+  "team_size": 20
+ },
+ "Ankr Health": null,
+ "AnswerThis": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "answerthis",
+  "team_size": 6
+ },
+ "Anthrogen": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "anthrogen",
+  "team_size": 15
+ },
+ "Antigen": null,
+ "Apero Health": null,
+ "Apolink": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "apolink",
+  "team_size": 7
+ },
+ "Apollo": null,
+ "Apollo.io": {
+  "ats": "greenhouse",
+  "batch": "Winter 2016",
+  "slug": "apolloio",
+  "team_size": 800
+ },
+ "Apprentice Health": null,
+ "AptDeco": null,
+ "Apten": null,
+ "Aqua": null,
+ "AquaShield": null,
+ "Aragorn AI": null,
+ "Aravolta": null,
+ "ArchForm": null,
+ "ArchiLabs": null,
+ "Archon": null,
+ "Ardent": null,
+ "Arini": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "arini",
+  "team_size": 17
+ },
+ "Arketa": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "arketa",
+  "team_size": 55
+ },
+ "Arlo Industries": null,
+ "Arpari": null,
+ "Artie": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "artie",
+  "team_size": 20
+ },
+ "Artifact": null,
+ "Artisan": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "artisan",
+  "team_size": 50
+ },
+ "Artos": null,
+ "Arva AI": null,
+ "Arzana": null,
+ "Asendia AI": null,
+ "Aseon Labs": null,
+ "Asha Health": null,
+ "Ashby": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "ashby",
+  "team_size": 110
+ },
+ "Aside": null,
+ "Asimov": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "asimov",
+  "team_size": 3
+ },
+ "Aspect": null,
+ "Aspire": null,
+ "Assembly": {
+  "ats": "ashby",
+  "batch": "Winter 2018",
+  "slug": "assembly",
+  "team_size": 25
+ },
+ "Assembly HOA": null,
+ "AssemblyAI": {
+  "ats": "greenhouse",
+  "batch": "Summer 2017",
+  "slug": "assemblyai",
+  "team_size": 65
+ },
+ "Asteroid": null,
+ "Astraea": null,
+ "Astranis": {
+  "ats": "greenhouse",
+  "batch": "Winter 2016",
+  "slug": "astranis",
+  "team_size": 500
+ },
+ "Astro Mechanica": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "astro-mechanica",
+  "team_size": 52
+ },
+ "AstroForge": null,
+ "Athelas": null,
+ "AthenaHQ": null,
+ "Atlas": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "atlas",
+  "team_size": 12
+ },
+ "Atlog": null,
+ "AtoB": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "atob",
+  "team_size": 75
+ },
+ "Atomic": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "atomic",
+  "team_size": 25
+ },
+ "Atomic Industries": null,
+ "Attack Capital": null,
+ "Attain": {
+  "ats": "greenhouse",
+  "batch": "Winter 2022",
+  "slug": "attain",
+  "team_size": 5
+ },
+ "Attune": null,
+ "Auctor": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "auctor",
+  "team_size": 30
+ },
+ "Aurelian": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "aurelian",
+  "team_size": 45
+ },
+ "Aurorin CAD": null,
+ "Authologic": null,
+ "AutoSitu": null,
+ "Automat": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "automat",
+  "team_size": null
+ },
+ "Autonomous Technologies Group": null,
+ "Autostep": null,
+ "Autumn": null,
+ "Avallon AI": null,
+ "Avent": null,
+ "AviaryAI": null,
+ "Aviator": null,
+ "Avoca": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "avoca",
+  "team_size": 85
+ },
+ "Avora": null,
+ "Axel Travel": null,
+ "Axiom": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "axiom",
+  "team_size": 2
+ },
+ "Axle": {
+  "ats": "greenhouse",
+  "batch": "Summer 2022",
+  "slug": "axle",
+  "team_size": 20
+ },
+ "Axle Health": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "axle-health",
+  "team_size": 28
+ },
+ "Axross Pte Ltd": null,
+ "Azalea Robotics Corporation": null,
+ "BIK": null,
+ "Balance": null,
+ "Baraka": null,
+ "BeGo": null,
+ "Beacons": null,
+ "Beam": {
+  "ats": "greenhouse",
+  "batch": "Winter 2022",
+  "slug": "beam",
+  "team_size": 5
+ },
+ "Beglaubigt.de": null,
+ "BelozFi": null,
+ "Belvo": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "belvo",
+  "team_size": 100
+ },
+ "Bemlo": null,
+ "Benepass": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "benepass",
+  "team_size": 45
+ },
+ "Berry": null,
+ "Besimple AI": null,
+ "BetterBasket": null,
+ "Betterhalf": null,
+ "Beyond Reach Labs": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "beyondreachlabs",
+  "team_size": 8
+ },
+ "Bild AI": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "bild-ai",
+  "team_size": 9
+ },
+ "Binks": null,
+ "BioRender": {
+  "ats": "lever",
+  "batch": "Winter 2018",
+  "slug": "biorender",
+  "team_size": 250
+ },
+ "BioStack Platforms": null,
+ "Biodock": null,
+ "Bitmovin": {
+  "ats": "greenhouse",
+  "batch": "Summer 2015",
+  "slug": "bitmovin",
+  "team_size": 145
+ },
+ "Blacksmith": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "blacksmith",
+  "team_size": 3
+ },
+ "Bland AI": null,
+ "Blaze": null,
+ "Blee": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "blee",
+  "team_size": 15
+ },
+ "Blink": null,
+ "Blissway": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "blissway",
+  "team_size": 22
+ },
+ "Bloom": {
+  "ats": "lever",
+  "batch": "Spring 2026",
+  "slug": "bloom",
+  "team_size": 3
+ },
+ "Bloom Institute of Technology": null,
+ "Bloomy": null,
+ "Blue Onion": null,
+ "BlueCargo": null,
+ "BlueHill Payments": null,
+ "Bluejay": null,
+ "BoldVoice": null,
+ "Bolna AI": null,
+ "Bolster": {
+  "ats": "lever",
+  "batch": "Summer 2021",
+  "slug": "bolster",
+  "team_size": 25
+ },
+ "Bond": null,
+ "Booko": null,
+ "BootLoop": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "bootloop",
+  "team_size": 3
+ },
+ "Bot MD": null,
+ "BotBuilt": null,
+ "Boundary": null,
+ "Bountiful": null,
+ "Brainbase Labs": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "brainbaselabs",
+  "team_size": 4
+ },
+ "Branch8": null,
+ "Bree": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "bree",
+  "team_size": 2
+ },
+ "Bretton AI": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "brettonai",
+  "team_size": 34
+ },
+ "Brickanta": null,
+ "Brickwise": null,
+ "Brighterway": null,
+ "Broccoli AI": null,
+ "Browser Use": null,
+ "Brumby (Formerly GrazeMate)": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "brumby",
+  "team_size": 3
+ },
+ "Bucket Robotics": null,
+ "BuildBuddy": null,
+ "Bunkerhill Health": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "bunkerhillhealth",
+  "team_size": 30
+ },
+ "Bunting Labs": null,
+ "Buoyant Aero": null,
+ "BusinessOnBot": null,
+ "COACH": null,
+ "CONUS": null,
+ "CTGT": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "ctgt",
+  "team_size": 10
+ },
+ "Cair Health": null,
+ "Callab AI": null,
+ "Calltree": null,
+ "Camber": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "camber",
+  "team_size": 101
+ },
+ "Cambio": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "cambio",
+  "team_size": 60
+ },
+ "Cambly": {
+  "ats": "ashby",
+  "batch": "Winter 2014",
+  "slug": "cambly",
+  "team_size": 200
+ },
+ "Campfire": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "campfire",
+  "team_size": 105
+ },
+ "Canary Technologies": {
+  "ats": "lever",
+  "batch": "Summer 2018",
+  "slug": "canarytechnologies",
+  "team_size": 150
+ },
+ "Candid Health": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "candidhealth",
+  "team_size": 200
+ },
+ "Candle": null,
+ "Candor": null,
+ "Canix": null,
+ "Capi Money": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "capimoney",
+  "team_size": 40
+ },
+ "Capitol AI": null,
+ "Capix": null,
+ "CaptivateIQ": {
+  "ats": "lever",
+  "batch": "Winter 2018",
+  "slug": "captivateiq",
+  "team_size": 280
+ },
+ "Capy": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "capy",
+  "team_size": 6
+ },
+ "CarbonChain": {
+  "ats": "greenhouse",
+  "batch": "Summer 2020",
+  "slug": "carbonchain",
+  "team_size": 16
+ },
+ "Cardboard": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "cardboard",
+  "team_size": 8
+ },
+ "Cardinal": null,
+ "Cardinal Gray": null,
+ "CareSwift": null,
+ "Careforce": null,
+ "Cargo": null,
+ "Caribou": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "caribou",
+  "team_size": 10
+ },
+ "Carma": null,
+ "Cartage": null,
+ "Casca": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "casca",
+  "team_size": 40
+ },
+ "Cascade Space": null,
+ "Casco": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "casco",
+  "team_size": 10
+ },
+ "Cashfree Payments": null,
+ "Castle": {
+  "ats": "ashby",
+  "batch": "Winter 2016",
+  "slug": "castle",
+  "team_size": 20
+ },
+ "CatchBack Cards": null,
+ "Cedana": null,
+ "Cekura": null,
+ "CellType": null,
+ "Centaur": null,
+ "Centralize": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "centralize",
+  "team_size": 9
+ },
+ "Cerrion": null,
+ "Cerulion": null,
+ "Channel3": null,
+ "CharacterQuilt": null,
+ "Charge Robotics": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "charge-robotics",
+  "team_size": 25
+ },
+ "Chariot": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "chariot",
+  "team_size": 24
+ },
+ "Chasi": null,
+ "Checkr": {
+  "ats": "greenhouse",
+  "batch": "Summer 2014",
+  "slug": "checkr",
+  "team_size": 800
+ },
+ "Chestnut": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "chestnut",
+  "team_size": 2
+ },
+ "Chima": null,
+ "Cinder": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "cinder",
+  "team_size": 30
+ },
+ "Circle Medical": null,
+ "Circleback": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "circleback",
+  "team_size": 8
+ },
+ "CircuitHub": {
+  "ats": "ashby",
+  "batch": "Winter 2012",
+  "slug": "circuithub",
+  "team_size": 58
+ },
+ "Ciro": null,
+ "Cityfurnish": null,
+ "Clad": null,
+ "Claim Health": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "claim-health",
+  "team_size": 6
+ },
+ "ClaimSorted": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "claimsorted",
+  "team_size": 20
+ },
+ "Clara": {
+  "ats": "greenhouse",
+  "batch": "Spring 2026",
+  "slug": "clara",
+  "team_size": 9
+ },
+ "Clarion": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "clarion",
+  "team_size": 16
+ },
+ "ClassDojo": {
+  "ats": "ashby",
+  "batch": "Summer 2012",
+  "slug": "classdojo",
+  "team_size": 100
+ },
+ "Clearest Health": null,
+ "Clearly AI": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "clearly-ai",
+  "team_size": 17
+ },
+ "ClickPe": null,
+ "Clicks Health": null,
+ "Clinikally": null,
+ "Clipboard": {
+  "ats": "ashby",
+  "batch": "Winter 2017",
+  "slug": "clipboard",
+  "team_size": 1000
+ },
+ "Closure": null,
+ "CloudCruise": null,
+ "Cloudglue": null,
+ "CoLoop": null,
+ "Coast": {
+  "ats": "greenhouse",
+  "batch": "Summer 2021",
+  "slug": "coast",
+  "team_size": 35
+ },
+ "Coba": null,
+ "Code Four": null,
+ "CodeAnt AI": null,
+ "Coderhouse": null,
+ "Codes Health": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "codes-health",
+  "team_size": 35
+ },
+ "Codingal": null,
+ "Cofactr": null,
+ "Cogram": null,
+ "CoinTracker": null,
+ "Coinrule": null,
+ "CollectWise": null,
+ "Collectly": null,
+ "Comena": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "comena",
+  "team_size": 8
+ },
+ "Community Phone Company": null,
+ "Complete": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "complete",
+  "team_size": 5
+ },
+ "Complir": {
+  "ats": "ashby",
+  "batch": "Spring 2026",
+  "slug": "complir",
+  "team_size": 13
+ },
+ "ComplyDo": null,
+ "Compose.ai": null,
+ "Concourse": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "concourse",
+  "team_size": 15
+ },
+ "Conductor": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "conductor",
+  "team_size": 8
+ },
+ "Conductor Quantum": null,
+ "Conduit": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "conduit",
+  "team_size": 15
+ },
+ "Confident AI": null,
+ "Confido": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "confido",
+  "team_size": 65
+ },
+ "Consus": null,
+ "Conta Simples": null,
+ "Contrario": null,
+ "Conveo": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "conveo",
+  "team_size": 90
+ },
+ "Converge": null,
+ "Conviction": null,
+ "Coperniq": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "coperniq",
+  "team_size": 6
+ },
+ "Copperlane": null,
+ "CopyCat AI": null,
+ "Corgea": null,
+ "Corgi Insurance": null,
+ "Coris": null,
+ "Cosine": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "cosine",
+  "team_size": 12
+ },
+ "Cotera": null,
+ "Coulomb AI": null,
+ "Coval": null,
+ "Covera": null,
+ "Coverage Cat": null,
+ "Cozmo AI": null,
+ "Craftwork": null,
+ "Craniometrix": null,
+ "CreativeMode": null,
+ "Credal.ai": null,
+ "Crew": null,
+ "Crustdata": null,
+ "Cua": null,
+ "Culdesac": {
+  "ats": "lever",
+  "batch": "Summer 2018",
+  "slug": "culdesac",
+  "team_size": 100
+ },
+ "Cumulus Labs": null,
+ "Curacel": null,
+ "Curri": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "curri",
+  "team_size": 104
+ },
+ "Cyble": null,
+ "D-ID": null,
+ "Dalus": null,
+ "Darsel": null,
+ "Dart": null,
+ "Darwin": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "darwin",
+  "team_size": 4
+ },
+ "Data Driven Bioscience": null,
+ "Datafold": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "datafold",
+  "team_size": 30
+ },
+ "Dataland": null,
+ "Dataleap": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "dataleap",
+  "team_size": 6
+ },
+ "Datrics": null,
+ "David AI": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "david-ai",
+  "team_size": 10
+ },
+ "Decoda Health": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "decodahealth",
+  "team_size": 19
+ },
+ "Dedalus Labs": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "dedalus-labs",
+  "team_size": 8
+ },
+ "Deel": null,
+ "Deep24": null,
+ "DeepAware AI (Robotics Center of Silicon Valley)": null,
+ "DeepGrove": null,
+ "DeepReach Inc.": null,
+ "Deepgram": {
+  "ats": "ashby",
+  "batch": "Winter 2016",
+  "slug": "deepgram",
+  "team_size": 115
+ },
+ "Deepnight": null,
+ "Deepnote": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "deepnote",
+  "team_size": 0
+ },
+ "Deeptrace": null,
+ "Delfino AI": null,
+ "Dench.com": null,
+ "Denta": null,
+ "Diffuse Bio": null,
+ "DigiBuild": null,
+ "Digipals": null,
+ "DiligenceSquared": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "diligencesquared",
+  "team_size": 3
+ },
+ "Diligent": {
+  "ats": "greenhouse",
+  "batch": "Summer 2023",
+  "slug": "diligent",
+  "team_size": 10
+ },
+ "Dill": null,
+ "Dime": null,
+ "Dimely": null,
+ "Diode Computers, Inc.": null,
+ "DirectShifts": null,
+ "Discovered Materials": null,
+ "Dispatch": {
+  "ats": "ashby",
+  "batch": "Spring 2026",
+  "slug": "dispatch",
+  "team_size": 4
+ },
+ "Ditto": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "ditto",
+  "team_size": 14
+ },
+ "Docura Health": null,
+ "Dodo": null,
+ "Domu Technology Inc.": null,
+ "Doppler": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "doppler",
+  "team_size": 25
+ },
+ "Dots \ud83d\udcb8": {
+  "ats": "greenhouse",
+  "batch": "Summer 2021",
+  "slug": "dots",
+  "team_size": 10
+ },
+ "Double": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "double",
+  "team_size": 80
+ },
+ "Dover": null,
+ "Draft The Record": null,
+ "Draftwise": null,
+ "DreamCraft Entertainment, Inc.": null,
+ "Drillbit": null,
+ "Drip Capital": null,
+ "DryMerge": null,
+ "Duckie": null,
+ "Duffel": {
+  "ats": "ashby",
+  "batch": "Summer 2018",
+  "slug": "duffel",
+  "team_size": 55
+ },
+ "Dynamo AI": null,
+ "Dyneti Technologies": null,
+ "Eden": null,
+ "Eden Robotics": null,
+ "Edexia": null,
+ "Edgerun": null,
+ "Educato": null,
+ "Edviro": null,
+ "EffiGov": null,
+ "Eight Sleep": {
+  "ats": "ashby",
+  "batch": "Summer 2015",
+  "slug": "eightsleep",
+  "team_size": 100
+ },
+ "Ekho": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "ekho",
+  "team_size": 30
+ },
+ "Elayne": null,
+ "Electric Air": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "electricair",
+  "team_size": 18
+ },
+ "Elevate": null,
+ "Ellipsis": null,
+ "Ello": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "ello",
+  "team_size": 45
+ },
+ "Eloquent AI": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "eloquentai",
+  "team_size": 5
+ },
+ "Elyos AI": null,
+ "Elyra": null,
+ "Ember": null,
+ "Emerge Career": null,
+ "Emergent": null,
+ "Encord": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "encord",
+  "team_size": 150
+ },
+ "Enerjazz": null,
+ "Enhanced Radar": null,
+ "Enode": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "enode",
+  "team_size": 70
+ },
+ "Entangl": null,
+ "Epinoma": null,
+ "Epsilon3": {
+  "ats": "lever",
+  "batch": "Summer 2021",
+  "slug": "epsilon3",
+  "team_size": 12
+ },
+ "Ergo": null,
+ "Escape": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "escape",
+  "team_size": 29
+ },
+ "Etleap": null,
+ "Event Horizon Labs": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "event-horizon-labs",
+  "team_size": 10
+ },
+ "Eventual": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "eventual",
+  "team_size": 18
+ },
+ "Every": null,
+ "Exonic": null,
+ "Explorex": null,
+ "Eze": null,
+ "F2": null,
+ "FINNY AI": null,
+ "FIRST": null,
+ "Faire": {
+  "ats": "greenhouse",
+  "batch": "Winter 2017",
+  "slug": "faire",
+  "team_size": 900
+ },
+ "FamPay": {
+  "ats": "lever",
+  "batch": "Summer 2019",
+  "slug": "fampay",
+  "team_size": 24
+ },
+ "Farcast": null,
+ "Fathom": null,
+ "Feather": null,
+ "Fenrock AI": null,
+ "Fernstone": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "fernstone",
+  "team_size": 5
+ },
+ "Fieldguide": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "fieldguide",
+  "team_size": 200
+ },
+ "Fifth Door": null,
+ "Finch": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "finch",
+  "team_size": 73
+ },
+ "Finku": null,
+ "Finn": {
+  "ats": "lever",
+  "batch": "Winter 2023",
+  "slug": "finn",
+  "team_size": 5
+ },
+ "Finni Health": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "finni-health",
+  "team_size": 40
+ },
+ "Finosu": null,
+ "Finta": null,
+ "Finto": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "finto",
+  "team_size": 10
+ },
+ "Firebender": null,
+ "Firecrawl": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "firecrawl",
+  "team_size": 3
+ },
+ "FirstWork": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "firstwork",
+  "team_size": 9
+ },
+ "Firstbase.io": null,
+ "Flagright": null,
+ "Flai": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "flai",
+  "team_size": 35
+ },
+ "Flair Labs": null,
+ "Fleek": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "fleek",
+  "team_size": 100
+ },
+ "FleetWorks": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "fleetworks",
+  "team_size": 20
+ },
+ "Fleetline": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "fleetline",
+  "team_size": 11
+ },
+ "Flex": {
+  "ats": "greenhouse",
+  "batch": "Summer 2023",
+  "slug": "flex",
+  "team_size": 8
+ },
+ "FlexDesk": null,
+ "Flexport": {
+  "ats": "greenhouse",
+  "batch": "Winter 2014",
+  "slug": "flexport",
+  "team_size": 3000
+ },
+ "Flick": null,
+ "Flint": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "flint",
+  "team_size": 18
+ },
+ "Flock Safety": null,
+ "Flockjay": null,
+ "Floot": null,
+ "Floracene": null,
+ "Flowtel": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "flowtel",
+  "team_size": 5
+ },
+ "FlutterFlow": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "flutterflow",
+  "team_size": 55
+ },
+ "Forage": null,
+ "Forge": null,
+ "Forge Automation": null,
+ "Formance": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "formance",
+  "team_size": 33
+ },
+ "Fort": null,
+ "Fortuna Health": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "fortuna-health",
+  "team_size": 29
+ },
+ "Foundation Industries": null,
+ "Fractional": null,
+ "Freebuff": null,
+ "Fresco": null,
+ "Freshpaint": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "freshpaint",
+  "team_size": 120
+ },
+ "Freya": null,
+ "Function of Beauty": null,
+ "FurtherAI": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "furtherai",
+  "team_size": 36
+ },
+ "Fuse AI": null,
+ "GETASAP": null,
+ "GIMO": null,
+ "GOAT Group": {
+  "ats": "greenhouse",
+  "batch": "Winter 2011",
+  "slug": "goatgroup",
+  "team_size": 1600
+ },
+ "Galactic Resource Utilization Space, Inc. (GRU Space)": null,
+ "Garage": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "garage",
+  "team_size": 35
+ },
+ "Gather": null,
+ "Gauge": null,
+ "Gauss": null,
+ "Gecko Robotics": {
+  "ats": "ashby",
+  "batch": "Winter 2016",
+  "slug": "gecko-robotics",
+  "team_size": 230
+ },
+ "Gemnote": null,
+ "General Astronautics": null,
+ "General Proximity": {
+  "ats": "greenhouse",
+  "batch": "Winter 2020",
+  "slug": "generalproximity",
+  "team_size": 15
+ },
+ "GetCrux": null,
+ "GetDot": null,
+ "Giga": null,
+ "Gigs": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "gigs",
+  "team_size": 150
+ },
+ "GiveCampus": {
+  "ats": "greenhouse",
+  "batch": "Summer 2015",
+  "slug": "givecampus",
+  "team_size": 130
+ },
+ "Giveffect": null,
+ "Glass Health": null,
+ "Glen": null,
+ "Glimpse": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "glimpse",
+  "team_size": 52
+ },
+ "GloGlo": null,
+ "Go1": null,
+ "GoGoGrandparent": null,
+ "GoLinks": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "golinks",
+  "team_size": 70
+ },
+ "GoSats": null,
+ "Godela": null,
+ "Gojiberry AI": null,
+ "Goldbelly": null,
+ "Gooseworks": null,
+ "GovDash": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "govdash",
+  "team_size": 56
+ },
+ "GovEagle": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "goveagle",
+  "team_size": 25
+ },
+ "GovernGPT": null,
+ "Great Question": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "greatquestion",
+  "team_size": 41
+ },
+ "Greenboard": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "greenboard",
+  "team_size": 35
+ },
+ "Gridware": {
+  "ats": "lever",
+  "batch": "Winter 2021",
+  "slug": "gridware",
+  "team_size": 125
+ },
+ "GroMo": null,
+ "GroundControl": null,
+ "GrowthBook": null,
+ "Guac": null,
+ "Guardian RF": null,
+ "Gusto": {
+  "ats": "greenhouse",
+  "batch": "Winter 2012",
+  "slug": "gusto",
+  "team_size": 2400
+ },
+ "Gym Class": null,
+ "HERA": null,
+ "HOKALI": null,
+ "HOMLI": null,
+ "HUD": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "hud",
+  "team_size": 24
+ },
+ "HackerRank": {
+  "ats": "greenhouse",
+  "batch": "Summer 2011",
+  "slug": "hackerrank",
+  "team_size": 300
+ },
+ "Hadrius": null,
+ "Halluminate": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "halluminate",
+  "team_size": 5
+ },
+ "Hamming AI": null,
+ "Hammr": null,
+ "Handle": null,
+ "Handoff": {
+  "ats": "lever",
+  "batch": "Winter 2020",
+  "slug": "handoff",
+  "team_size": 20
+ },
+ "Hapi": null,
+ "Haplotype Labs": null,
+ "Happl": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "happl",
+  "team_size": 11
+ },
+ "HappyRobot": null,
+ "Harper": null,
+ "Haven": {
+  "ats": "greenhouse",
+  "batch": "Winter 2023",
+  "slug": "haven",
+  "team_size": 3
+ },
+ "Haystack": null,
+ "Healia": null,
+ "Health Harbor": null,
+ "HealthKey": null,
+ "Healthtech 1": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "healthtech-1",
+  "team_size": 40
+ },
+ "Hedge": {
+  "ats": "ashby",
+  "batch": "Spring 2026",
+  "slug": "hedge",
+  "team_size": 2
+ },
+ "Helios": null,
+ "Helium": null,
+ "Hellometer": null,
+ "Helloverify": null,
+ "Hemut": null,
+ "Hera": null,
+ "Heron": null,
+ "Hestus, Inc.": null,
+ "Hey Telo": null,
+ "HeyCharge": null,
+ "HiOperator": null,
+ "Hirebolt": null,
+ "HitPay": null,
+ "Hive": {
+  "ats": "greenhouse",
+  "batch": "Summer 2014",
+  "slug": "hive",
+  "team_size": 65
+ },
+ "HockeyStack": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "hockeystack",
+  "team_size": 32
+ },
+ "Homebase": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "homebase",
+  "team_size": 20
+ },
+ "Hotplate": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "hotplate",
+  "team_size": 9
+ },
+ "Housewarming": null,
+ "Hub": null,
+ "Hubble": null,
+ "Humaans": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "humaans",
+  "team_size": 48
+ },
+ "Human Archive": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "humanarchive",
+  "team_size": 100
+ },
+ "Human Interest": {
+  "ats": "greenhouse",
+  "batch": "Summer 2015",
+  "slug": "humaninterest",
+  "team_size": 765
+ },
+ "HumanLayer": null,
+ "Humwork": null,
+ "Huscarl": null,
+ "HyLight": null,
+ "Hype": null,
+ "Hyperbound": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "hyperbound",
+  "team_size": 30
+ },
+ "Hyperbrowser": null,
+ "Hypercubic": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "hypercubic",
+  "team_size": 3
+ },
+ "Hyperspell": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "hyperspell",
+  "team_size": 8
+ },
+ "Hypotenuse AI": null,
+ "IMPACT Drones": null,
+ "IMT Care": null,
+ "IOMETE": null,
+ "Icarus": {
+  "ats": "greenhouse",
+  "batch": "Fall 2025",
+  "slug": "icarus",
+  "team_size": 50
+ },
+ "IcePanel": null,
+ "Ignition Benefits": null,
+ "Imagine AI": null,
+ "Imperfect": null,
+ "Imprezia": null,
+ "InEvent": null,
+ "Indemni": null,
+ "Inden": null,
+ "Infer": null,
+ "Infinia": null,
+ "Infinite": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "infinite",
+  "team_size": 4
+ },
+ "Infinity": null,
+ "Infisical": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "infisical",
+  "team_size": 50
+ },
+ "InfluxData": {
+  "ats": "ashby",
+  "batch": "Winter 2013",
+  "slug": "influxdata",
+  "team_size": 210
+ },
+ "Infracost": null,
+ "Inito": null,
+ "Inkeep": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "inkeep",
+  "team_size": 18
+ },
+ "Inlet": null,
+ "Innate": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "innate",
+  "team_size": 7
+ },
+ "Inscribe": null,
+ "Inspectify": null,
+ "Instawork": {
+  "ats": "greenhouse",
+  "batch": "Summer 2015",
+  "slug": "instawork",
+  "team_size": 500
+ },
+ "Instrumentl": null,
+ "Intelligence Factory": null,
+ "Intelline": null,
+ "Interfaze": null,
+ "Interfere": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "interfere",
+  "team_size": 8
+ },
+ "Intryc": null,
+ "Invert": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "invert",
+  "team_size": 25
+ },
+ "Invopop": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "invopop",
+  "team_size": 7
+ },
+ "IronLedger.ai": null,
+ "Ironclad": null,
+ "JABU": null,
+ "JITX": null,
+ "Jarmin": null,
+ "Jeevy Fabrication": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "jeevyfabrication",
+  "team_size": 3
+ },
+ "Jiga": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "jiga",
+  "team_size": 25
+ },
+ "Jinba": null,
+ "Joy": null,
+ "Juicebox": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "juicebox",
+  "team_size": 100
+ },
+ "Julius": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "julius",
+  "team_size": 10
+ },
+ "Junction": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "junction",
+  "team_size": 19
+ },
+ "Juno": {
+  "ats": "greenhouse",
+  "batch": "Spring 2026",
+  "slug": "juno",
+  "team_size": 2
+ },
+ "Just Appraised": null,
+ "JustAI": null,
+ "Juxta": null,
+ "JuziBot": null,
+ "Kabilah": null,
+ "KaiPod Learning": null,
+ "Kaizen": null,
+ "Kalam Labs": null,
+ "Kalinda": null,
+ "Kalpa Labs": null,
+ "Kalshi": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "kalshi",
+  "team_size": 125
+ },
+ "Karat Financial": null,
+ "Karumi": null,
+ "Kastle": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "kastle",
+  "team_size": 15
+ },
+ "KelAI": null,
+ "Keye": null,
+ "Kilvin": null,
+ "Kingdom": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "kingdom",
+  "team_size": 21
+ },
+ "Kino AI": null,
+ "Kinro": null,
+ "Kivo Health": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "kivo-health",
+  "team_size": 40
+ },
+ "Klaimee": null,
+ "Klarify": {
+  "ats": "ashby",
+  "batch": "Spring 2026",
+  "slug": "klarify",
+  "team_size": 3
+ },
+ "Klavis AI": null,
+ "Knowtex": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "knowtex",
+  "team_size": null
+ },
+ "Kobalt Labs": null,
+ "Kodex": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "kodex",
+  "team_size": 30
+ },
+ "Kodo": null,
+ "Kombo": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "kombo",
+  "team_size": 77
+ },
+ "Kontigo": null,
+ "KorrAI": null,
+ "Koyal": null,
+ "KugelAudio": null,
+ "Kuli": null,
+ "Kyber": null,
+ "LFcarry": null,
+ "Lab0": null,
+ "Lago": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "lago",
+  "team_size": 27
+ },
+ "Lamar Health": null,
+ "Lambda Robotics": null,
+ "Laminar": null,
+ "Lance": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "lance",
+  "team_size": 10
+ },
+ "Landed": null,
+ "Landeed": null,
+ "Lanesurf": null,
+ "Langdock": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "langdock",
+  "team_size": 55
+ },
+ "Lapel": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "lapel",
+  "team_size": 14
+ },
+ "Latent": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "latent",
+  "team_size": 50
+ },
+ "Lattice": {
+  "ats": "greenhouse",
+  "batch": "Winter 2016",
+  "slug": "lattice",
+  "team_size": 540
+ },
+ "Laurence": null,
+ "Layers": null,
+ "Layerup": null,
+ "Laylo": null,
+ "Leadbay": null,
+ "Leaping AI": null,
+ "Ledger Investing": null,
+ "Leena AI": null,
+ "Leeroo": null,
+ "Legalist": {
+  "ats": "greenhouse",
+  "batch": "Summer 2016",
+  "slug": "legalist",
+  "team_size": 40
+ },
+ "Legion Health": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "legionhealth",
+  "team_size": 11
+ },
+ "Legora": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "legora",
+  "team_size": 400
+ },
+ "Lemma": null,
+ "LemonLime": null,
+ "Letter AI": null,
+ "LightSprint": null,
+ "Lightberry": null,
+ "Lightdash": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "lightdash",
+  "team_size": 23
+ },
+ "Lighthouz AI": null,
+ "Lightly": null,
+ "Limrun": {
+  "ats": "greenhouse",
+  "batch": "Spring 2026",
+  "slug": "limrun",
+  "team_size": 1
+ },
+ "LineLeap": null,
+ "Liquid Compute": null,
+ "LiteLLM": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "litellm",
+  "team_size": 20
+ },
+ "LiveFlow": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "liveflow",
+  "team_size": 51
+ },
+ "Living Carbon": {
+  "ats": "lever",
+  "batch": "Winter 2020",
+  "slug": "livingcarbon",
+  "team_size": 40
+ },
+ "Lob": {
+  "ats": "greenhouse",
+  "batch": "Summer 2013",
+  "slug": "lob",
+  "team_size": 150
+ },
+ "Locata": null,
+ "Locke": null,
+ "Loombotic": null,
+ "LootRush": null,
+ "Luca IQ": null,
+ "Lucid": null,
+ "Lucis": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "lucis",
+  "team_size": 17
+ },
+ "Lugg": null,
+ "Lumari": null,
+ "Luminai": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "luminai",
+  "team_size": 50
+ },
+ "Luminal": null,
+ "Lumius": null,
+ "LunaJoy Health": null,
+ "Luthor": null,
+ "MDalgorithms Inc.": null,
+ "MSPilot": null,
+ "Macadamia": null,
+ "Mach9": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "mach9",
+  "team_size": 25
+ },
+ "MadeThis": null,
+ "Mage Legal": null,
+ "Magic": null,
+ "Magic Patterns": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "magicpatterns",
+  "team_size": 10
+ },
+ "Magnetic": null,
+ "MailTime": null,
+ "Maintouch": null,
+ "Malama Health": null,
+ "MangoDesk": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "mangodesk",
+  "team_size": 2
+ },
+ "Manicule": null,
+ "Manufact": null,
+ "Marble": {
+  "ats": "ashby",
+  "batch": "Summer 2026",
+  "slug": "marble",
+  "team_size": 2
+ },
+ "Margin": null,
+ "Maritime Fusion": null,
+ "Mashgin": {
+  "ats": "lever",
+  "batch": "Winter 2015",
+  "slug": "mashgin",
+  "team_size": 150
+ },
+ "Mason": null,
+ "Material Depot": null,
+ "Matter": null,
+ "Maven Bio": null,
+ "May Mobility": {
+  "ats": "greenhouse",
+  "batch": "Summer 2017",
+  "slug": "maymobility",
+  "team_size": 260
+ },
+ "Maywood": null,
+ "Mbodi AI": null,
+ "Measured": null,
+ "MedMe Health": null,
+ "Mednet": {
+  "ats": "ashby",
+  "batch": "Winter 2017",
+  "slug": "mednet",
+  "team_size": 35
+ },
+ "Medplum": null,
+ "Mem0": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "mem0",
+  "team_size": 10
+ },
+ "Mentra": null,
+ "Mercura": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "mercura",
+  "team_size": 20
+ },
+ "Merlin AI": null,
+ "Meru Health": {
+  "ats": "greenhouse",
+  "batch": "Summer 2018",
+  "slug": "meruhealth",
+  "team_size": 55
+ },
+ "Mesh": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "mesh",
+  "team_size": 3
+ },
+ "Mesmer": null,
+ "Metal": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "metal",
+  "team_size": 17
+ },
+ "Metalware": null,
+ "Method Financial": null,
+ "Meticulate": null,
+ "Meticulous": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "meticulous",
+  "team_size": 15
+ },
+ "Metorial": null,
+ "Metriport": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "metriport",
+  "team_size": 29
+ },
+ "Middesk": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "middesk",
+  "team_size": 130
+ },
+ "Middleware": null,
+ "MindFi": null,
+ "MindFort": null,
+ "Mineflow": null,
+ "Minicor": null,
+ "Minimum": null,
+ "Mino Games": null,
+ "Mintlify": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "mintlify",
+  "team_size": 75
+ },
+ "Miso": null,
+ "Miso Labs": {
+  "ats": "ashby",
+  "batch": "Spring 2026",
+  "slug": "misolabs",
+  "team_size": 3
+ },
+ "Misprint": null,
+ "MixRank": null,
+ "MochaCare": null,
+ "Model ML": null,
+ "Modern Health": {
+  "ats": "greenhouse",
+  "batch": "Winter 2018",
+  "slug": "modernhealth",
+  "team_size": 375
+ },
+ "Modern Treasury": {
+  "ats": "ashby",
+  "batch": "Summer 2018",
+  "slug": "moderntreasury",
+  "team_size": 160
+ },
+ "ModernLoop": null,
+ "Molagri": null,
+ "Momentic": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "momentic",
+  "team_size": 18
+ },
+ "Monumint": null,
+ "Moonset Health": null,
+ "Moonvalley": null,
+ "Moritz": null,
+ "Morph": null,
+ "Morphle Labs": null,
+ "MorphoAI": null,
+ "Mosaic": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "mosaic",
+  "team_size": 5
+ },
+ "Moss": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "moss",
+  "team_size": 5
+ },
+ "Motion": null,
+ "Multiplier": null,
+ "Multiply Labs": {
+  "ats": "lever",
+  "batch": "Summer 2016",
+  "slug": "multiplylabs",
+  "team_size": 36
+ },
+ "Mutiny": {
+  "ats": "ashby",
+  "batch": "Summer 2018",
+  "slug": "mutiny",
+  "team_size": 20
+ },
+ "Muzz": null,
+ "Mytos": {
+  "ats": "lever",
+  "batch": "Summer 2018",
+  "slug": "mytos",
+  "team_size": 26
+ },
+ "NOSO LABS": null,
+ "Nabis": {
+  "ats": "greenhouse",
+  "batch": "Winter 2019",
+  "slug": "nabis",
+  "team_size": 700
+ },
+ "Nango": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "nango",
+  "team_size": 6
+ },
+ "NanoNets": null,
+ "Narrative": null,
+ "Nash": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "nash",
+  "team_size": 40
+ },
+ "Nautilus": null,
+ "Navier AI": {
+  "ats": "greenhouse",
+  "batch": "Winter 2024",
+  "slug": "navierai",
+  "team_size": 7
+ },
+ "Na\u00efve": null,
+ "Nectar": null,
+ "Neodocs": null,
+ "Nessie": null,
+ "Nest Genomics": null,
+ "Nestor": null,
+ "Netomi": {
+  "ats": "lever",
+  "batch": "Winter 2016",
+  "slug": "netomi",
+  "team_size": 3
+ },
+ "Neuromorphic": null,
+ "New Story": null,
+ "NewsCatcher": null,
+ "Newton": {
+  "ats": "greenhouse",
+  "batch": "Winter 2024",
+  "slug": "newton",
+  "team_size": 4
+ },
+ "Nextera Robotics | DIDGE.ai": null,
+ "Nimble": null,
+ "Nine Fives": null,
+ "Nira Energy": {
+  "ats": "greenhouse",
+  "batch": "Winter 2022",
+  "slug": "niraenergy",
+  "team_size": 20
+ },
+ "Nitrode": null,
+ "Nixo": null,
+ "No Logo": null,
+ "Noloco": null,
+ "Nomic Bio": null,
+ "Noora Health": null,
+ "Notabene": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "notabene",
+  "team_size": 47
+ },
+ "Nourish": null,
+ "Nova Credit": {
+  "ats": "greenhouse",
+  "batch": "Summer 2016",
+  "slug": "novacredit",
+  "team_size": 100
+ },
+ "Novaflow": null,
+ "Novig": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "novig",
+  "team_size": 55
+ },
+ "Novoflow": null,
+ "Nowadays": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "nowadays",
+  "team_size": 6
+ },
+ "Nox Metals": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "nox-metals",
+  "team_size": 35
+ },
+ "Nozomio": null,
+ "Numen": null,
+ "Numeral": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "numeral",
+  "team_size": 110
+ },
+ "Numero": null,
+ "OS3": null,
+ "OWNY": null,
+ "Ocular AI": null,
+ "Odeko": {
+  "ats": "greenhouse",
+  "batch": "Summer 2019",
+  "slug": "odeko",
+  "team_size": 371
+ },
+ "Odys Aviation": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "odys-aviation",
+  "team_size": 11
+ },
+ "OffDeal": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "offdeal",
+  "team_size": 15
+ },
+ "Offstream": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "offstream",
+  "team_size": 10
+ },
+ "Ohm": null,
+ "Okteto": null,
+ "Olympian Motors": null,
+ "Omnistrate": null,
+ "OnDeck AI": null,
+ "One Robot": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "onerobot",
+  "team_size": 2
+ },
+ "OneChronos": {
+  "ats": "ashby",
+  "batch": "Summer 2016",
+  "slug": "onechronos",
+  "team_size": 75
+ },
+ "OneFin": null,
+ "OneLocal": null,
+ "OneSchema": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "oneschema",
+  "team_size": 20
+ },
+ "OneSignal": null,
+ "OneStop": null,
+ "Oneleet": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "oneleet",
+  "team_size": 75
+ },
+ "Onlook": null,
+ "Ooak Data": null,
+ "Opalite Health": null,
+ "Open": null,
+ "OpenUnit": null,
+ "OpenWork": {
+  "ats": "greenhouse",
+  "batch": "Spring 2026",
+  "slug": "openwork",
+  "team_size": 4
+ },
+ "Openbenchmarks": null,
+ "Opencall": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "opencall",
+  "team_size": 7
+ },
+ "Openmart": null,
+ "Operon": null,
+ "Ophelia": {
+  "ats": "greenhouse",
+  "batch": "Winter 2020",
+  "slug": "ophelia",
+  "team_size": 250
+ },
+ "Optifye.ai": null,
+ "Opusense AI": null,
+ "Orange Slice": null,
+ "Orangewood Labs": null,
+ "Orbio Earth": null,
+ "Orbital Operations": {
+  "ats": "greenhouse",
+  "batch": "Winter 2025",
+  "slug": "orbitaloperations",
+  "team_size": 10
+ },
+ "Orca Aerospace": null,
+ "Orchid": null,
+ "Origin": null,
+ "Osium AI": null,
+ "Osmosis": {
+  "ats": "greenhouse",
+  "batch": "Winter 2025",
+  "slug": "osmosis",
+  "team_size": 6
+ },
+ "Outerport": null,
+ "Output Biosciences": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "output",
+  "team_size": 8
+ },
+ "Outset": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "outset",
+  "team_size": 30
+ },
+ "Overlap": null,
+ "Overview": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "overview",
+  "team_size": 40
+ },
+ "Oxus": null,
+ "Oxygen": null,
+ "PAX Markets": null,
+ "PNO\u0112": null,
+ "PRINCEPS": null,
+ "Paasa": null,
+ "Paces": null,
+ "Padlet": {
+  "ats": "ashby",
+  "batch": "Winter 2013",
+  "slug": "padlet",
+  "team_size": 65
+ },
+ "Pair AI": null,
+ "Pair Team": {
+  "ats": "greenhouse",
+  "batch": "Summer 2019",
+  "slug": "pairteam",
+  "team_size": 500
+ },
+ "PaletteHQ": null,
+ "Panels": null,
+ "Pangea.app": null,
+ "Pango": null,
+ "Pangolin": null,
+ "ParadeDB": null,
+ "Paradigm": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "paradigm",
+  "team_size": 8
+ },
+ "Paragon": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "paragon",
+  "team_size": 2
+ },
+ "Paragon AI": null,
+ "Parallel Bio": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "parallel-bio",
+  "team_size": 20
+ },
+ "Parameter": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "parameter",
+  "team_size": 14
+ },
+ "Parametric": null,
+ "Parasma": null,
+ "Parsewise": null,
+ "Partcl": null,
+ "Pasito": null,
+ "Pave": null,
+ "Pax": null,
+ "Pax Historia": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "pax-historia",
+  "team_size": 6
+ },
+ "Payflow": null,
+ "Payna": null,
+ "Peakflo": null,
+ "Pelago": {
+  "ats": "greenhouse",
+  "batch": "Winter 2018",
+  "slug": "pelago",
+  "team_size": 180
+ },
+ "Pennant": null,
+ "People.ai": {
+  "ats": "lever",
+  "batch": "Summer 2016",
+  "slug": "people-ai",
+  "team_size": 300
+ },
+ "Peppr AI": null,
+ "Per Diem": null,
+ "PerfectBit, Inc.": null,
+ "PermitFlow": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "permitflow",
+  "team_size": 80
+ },
+ "PermitPortal": null,
+ "Perseus Defense": null,
+ "Pesto": null,
+ "Petrarch": null,
+ "PgDog": null,
+ "Phoenix": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "phoenix",
+  "team_size": 70
+ },
+ "Phonely": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "phonely",
+  "team_size": 10
+ },
+ "Photonium": null,
+ "PicnicAI": null,
+ "Pier": null,
+ "PiinPoint": null,
+ "Pillar": null,
+ "Pine Park Health": null,
+ "Piramidal": null,
+ "Piris Labs": null,
+ "Pirouette Pharma": null,
+ "Pirros": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "pirros",
+  "team_size": 44
+ },
+ "Pivot Robotics": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "pivotrobotics",
+  "team_size": 8
+ },
+ "Players' Lounge": null,
+ "Plena Health": null,
+ "Plexe": null,
+ "Ploy": null,
+ "Pocket": null,
+ "PocketSuite": null,
+ "Podium": null,
+ "PointOne": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "pointone",
+  "team_size": 35
+ },
+ "Pointhound": null,
+ "Poka Labs": null,
+ "PoloTab": null,
+ "Poly": null,
+ "Polymath": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "polymath",
+  "team_size": 6
+ },
+ "Polymath Robotics": null,
+ "Pop Meals": null,
+ "Popl": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "popl",
+  "team_size": 60
+ },
+ "Porter": {
+  "ats": "greenhouse",
+  "batch": "Summer 2020",
+  "slug": "porter",
+  "team_size": 18
+ },
+ "Posh": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "posh",
+  "team_size": 10
+ },
+ "PostEra": {
+  "ats": "lever",
+  "batch": "Winter 2020",
+  "slug": "postera",
+  "team_size": 40
+ },
+ "PostHog": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "posthog",
+  "team_size": 150
+ },
+ "Postal": null,
+ "Postscript": {
+  "ats": "greenhouse",
+  "batch": "Winter 2019",
+  "slug": "postscript",
+  "team_size": 180
+ },
+ "Powder": null,
+ "Prelim": {
+  "ats": "ashby",
+  "batch": "Summer 2017",
+  "slug": "prelim",
+  "team_size": 49
+ },
+ "Prembly (formerly Identitypass)": null,
+ "Prequel": null,
+ "Prescience, Inc.": null,
+ "Presti AI": null,
+ "PrimeVault": null,
+ "ProSights": null,
+ "Probably Genetic": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "probablygenetic",
+  "team_size": 17
+ },
+ "ProcIndex": null,
+ "Proception Inc": null,
+ "Prodigal": {
+  "ats": "greenhouse",
+  "batch": "Summer 2018",
+  "slug": "prodigal",
+  "team_size": 99
+ },
+ "ProhostAI": null,
+ "Proliferate": null,
+ "Prolific": {
+  "ats": "greenhouse",
+  "batch": "Summer 2019",
+  "slug": "prolific",
+  "team_size": 180
+ },
+ "Promise": {
+  "ats": "ashby",
+  "batch": "Winter 2018",
+  "slug": "promise",
+  "team_size": 80
+ },
+ "PromptArmor": null,
+ "Promptless": null,
+ "Proof of Human": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "proofofhuman",
+  "team_size": 5
+ },
+ "PropelAuth": null,
+ "Prospa": {
+  "ats": "greenhouse",
+  "batch": "Winter 2021",
+  "slug": "prospa",
+  "team_size": 70
+ },
+ "Prosper": {
+  "ats": "lever",
+  "batch": "Summer 2023",
+  "slug": "prosper",
+  "team_size": 60
+ },
+ "Protex AI": null,
+ "Proven Group": null,
+ "ProvenMetal": null,
+ "Provision": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "provision",
+  "team_size": 15
+ },
+ "Prox": null,
+ "Proximitty": null,
+ "Pulley": null,
+ "Pulse": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "pulse",
+  "team_size": 22
+ },
+ "Pump.co": null,
+ "Pure": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "pure",
+  "team_size": 13
+ },
+ "Pylon": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "pylon",
+  "team_size": 120
+ },
+ "QFEX": null,
+ "Quadrant Health": null,
+ "QualGent": null,
+ "Quartzy": null,
+ "QuestDB": null,
+ "Quickchat AI": null,
+ "Quicknode": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "quicknode",
+  "team_size": 115
+ },
+ "Quill": null,
+ "Quill Bills": null,
+ "Quindar": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "quindar",
+  "team_size": 57
+ },
+ "Qventus": {
+  "ats": "greenhouse",
+  "batch": "Winter 2015",
+  "slug": "qventus",
+  "team_size": 230
+ },
+ "RADAR": {
+  "ats": "ashby",
+  "batch": "Winter 2013",
+  "slug": "radar",
+  "team_size": 120
+ },
+ "REVER": null,
+ "ROE": null,
+ "Raindrop": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "raindrop",
+  "team_size": 9
+ },
+ "Rally": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "rallyuxr",
+  "team_size": 35
+ },
+ "Ralo": null,
+ "RamAIn": null,
+ "Ramani": null,
+ "Rappi": null,
+ "Rational": null,
+ "Raven": {
+  "ats": "greenhouse",
+  "batch": "Summer 2022",
+  "slug": "raven",
+  "team_size": 4
+ },
+ "Raycaster": null,
+ "Razorpay": null,
+ "Reach": {
+  "ats": "ashby",
+  "batch": "Summer 2015",
+  "slug": "reach",
+  "team_size": 45
+ },
+ "Reacher": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "reacher",
+  "team_size": 10
+ },
+ "Readily": null,
+ "Ready": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "ready",
+  "team_size": 60
+ },
+ "Reality Defender": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "realitydefender",
+  "team_size": 54
+ },
+ "Reason Machines": null,
+ "Rebill": null,
+ "Rebolt": null,
+ "Recall.ai": null,
+ "Recidiviz": {
+  "ats": "greenhouse",
+  "batch": "Summer 2019",
+  "slug": "recidiviz",
+  "team_size": 120
+ },
+ "Recurrency": null,
+ "Redbird": null,
+ "Reditus Space": null,
+ "Reducto": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "reducto",
+  "team_size": 30
+ },
+ "Refactor": null,
+ "Reflex": {
+  "ats": "greenhouse",
+  "batch": "Winter 2023",
+  "slug": "reflex",
+  "team_size": 10
+ },
+ "Reforged Labs": null,
+ "Reform": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "reform",
+  "team_size": 13
+ },
+ "Reframe": null,
+ "Regbase": null,
+ "Relace": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "relace",
+  "team_size": 7
+ },
+ "Relari": null,
+ "Relativity Space": null,
+ "Relling": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "relling",
+  "team_size": null
+ },
+ "Remi": null,
+ "RentHop": null,
+ "Replicas": null,
+ "Replit": {
+  "ats": "ashby",
+  "batch": "Winter 2018",
+  "slug": "replit",
+  "team_size": 65
+ },
+ "Replo": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "replo",
+  "team_size": 20
+ },
+ "Reprompt": null,
+ "Rescale": {
+  "ats": "ashby",
+  "batch": "Winter 2012",
+  "slug": "rescale",
+  "team_size": 250
+ },
+ "Rescript": null,
+ "Respan": null,
+ "Resquared": null,
+ "Ressl AI": null,
+ "RetailReady": null,
+ "Retell AI": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "retell-ai",
+  "team_size": 50
+ },
+ "Retool": null,
+ "RetroFix": null,
+ "Rev Genomics": null,
+ "Revamp": null,
+ "RevenueCat": {
+  "ats": "ashby",
+  "batch": "Summer 2018",
+  "slug": "revenuecat",
+  "team_size": 160
+ },
+ "Revion": null,
+ "Revise Robotics": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "reviserobotics",
+  "team_size": 3
+ },
+ "Reviving Mind": null,
+ "Revnu": null,
+ "Revyl": null,
+ "Rex": null,
+ "Rhem Labs": null,
+ "Rhizome AI": null,
+ "Ridecell": null,
+ "Rimward": null,
+ "Rinse": null,
+ "Riot": null,
+ "Rippling": null,
+ "Rivet": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "rivet",
+  "team_size": 5
+ },
+ "Rivia.AI": null,
+ "Roame": null,
+ "Robby": null,
+ "Roboflow": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "roboflow",
+  "team_size": 100
+ },
+ "RocketSDR": null,
+ "Roforco": null,
+ "Roger": null,
+ "Rollstack": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "rollstack",
+  "team_size": 30
+ },
+ "Rootly": null,
+ "Rose Rocket": null,
+ "Routable": null,
+ "Rove": null,
+ "Rovi Health": null,
+ "Rubbrband": null,
+ "Rudus": null,
+ "Rulebase": null,
+ "Rulebricks": null,
+ "Ruma Care": null,
+ "RunAnywhere": null,
+ "Runa": {
+  "ats": "ashby",
+  "batch": "Winter 2018",
+  "slug": "runa",
+  "team_size": 100
+ },
+ "Runtime": null,
+ "Runway": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "runway",
+  "team_size": 20
+ },
+ "Rutter": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "rutter",
+  "team_size": 24
+ },
+ "Ryvn": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "ryvn",
+  "team_size": 5
+ },
+ "SAMMY Labs": null,
+ "SF Tensor": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "sf-tensor",
+  "team_size": 6
+ },
+ "SID": null,
+ "SOUNDBOKS": null,
+ "SafeBeat": null,
+ "SafeButler": null,
+ "Safepay": null,
+ "SafetyKit": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "safetykit",
+  "team_size": 10
+ },
+ "SafetyWing": null,
+ "SalaryBox": null,
+ "SalesPatriot": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "salespatriot",
+  "team_size": 15
+ },
+ "Salient": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "salient",
+  "team_size": 40
+ },
+ "Salus": null,
+ "Sameday": null,
+ "Sant\u00e9": null,
+ "Saphira AI": null,
+ "Sapling.ai": null,
+ "Saturn": null,
+ "Sava": null,
+ "Scalar Field": null,
+ "Scale AI": {
+  "ats": "greenhouse",
+  "batch": "Summer 2016",
+  "slug": "scaleai",
+  "team_size": 500
+ },
+ "Scispot": null,
+ "Scott AI": null,
+ "Scout": null,
+ "Seal": null,
+ "Seam": null,
+ "Seeing Systems": null,
+ "Semble": null,
+ "Sendbird": {
+  "ats": "greenhouse",
+  "batch": "Winter 2016",
+  "slug": "sendbird",
+  "team_size": 300
+ },
+ "Sendblue": null,
+ "Senso": null,
+ "Serif Health": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "serifhealth",
+  "team_size": 20
+ },
+ "Serve AI": null,
+ "Servo7": null,
+ "Shadeform": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "shadeform",
+  "team_size": 11
+ },
+ "Shape (ShapeScale)": null,
+ "Shasta Health": null,
+ "Shepherd": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "shepherd",
+  "team_size": 60
+ },
+ "Shiboleth": null,
+ "Shimmer": null,
+ "ShipBob": null,
+ "Short Story": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "shortstory",
+  "team_size": 120
+ },
+ "ShortLoop": null,
+ "Shuttle Central": null,
+ "SiPhox Health": null,
+ "Sieve": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "sieve",
+  "team_size": 34
+ },
+ "Sift": {
+  "ats": "ashby",
+  "batch": "Summer 2011",
+  "slug": "sift",
+  "team_size": null
+ },
+ "SigNoz": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "signoz",
+  "team_size": 38
+ },
+ "SigmaOS": null,
+ "Silimate": null,
+ "SilkChart": null,
+ "Silurian": null,
+ "Sim": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "sim",
+  "team_size": 10
+ },
+ "SimCare": null,
+ "Simantic": null,
+ "Simbie AI": null,
+ "Simple AI": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "simple-ai",
+  "team_size": 11
+ },
+ "SimplyInsured": null,
+ "Sira": null,
+ "Sirdab": null,
+ "Sitefire": null,
+ "Sixtyfour": null,
+ "Skypher": null,
+ "Skyvern": null,
+ "Skyways": {
+  "ats": "lever",
+  "batch": "Summer 2017",
+  "slug": "skyways",
+  "team_size": 33
+ },
+ "Slash": null,
+ "Slope": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "slope",
+  "team_size": 16
+ },
+ "Smartcuts": {
+  "ats": "lever",
+  "batch": "Winter 2021",
+  "slug": "smartcuts",
+  "team_size": 3
+ },
+ "Smooth": null,
+ "SnapMagic": {
+  "ats": "ashby",
+  "batch": "Summer 2015",
+  "slug": "snapmagic",
+  "team_size": 23
+ },
+ "Snappr": {
+  "ats": "lever",
+  "batch": "Winter 2017",
+  "slug": "snappr",
+  "team_size": 250
+ },
+ "Socratix AI": null,
+ "Soff": null,
+ "Sola": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "sola",
+  "team_size": 5
+ },
+ "Solidroad": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "solidroad",
+  "team_size": 6
+ },
+ "Solo": null,
+ "Solum Health": null,
+ "Solva": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "solva",
+  "team_size": 15
+ },
+ "Solve Intelligence": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "solveintelligence",
+  "team_size": 50
+ },
+ "Sonatoria": null,
+ "Sonia": null,
+ "Soraban": null,
+ "Soren": null,
+ "Soria": null,
+ "Sorting Robotics": null,
+ "Sourcebot": null,
+ "Sourcify": null,
+ "Spaceium Inc": null,
+ "Spade": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "spade",
+  "team_size": 30
+ },
+ "Spark": null,
+ "Sparkles": null,
+ "Speak": {
+  "ats": "ashby",
+  "batch": "Winter 2017",
+  "slug": "speak",
+  "team_size": 40
+ },
+ "Speedy Labs": null,
+ "Spellbrush": {
+  "ats": "ashby",
+  "batch": "Winter 2018",
+  "slug": "spellbrush",
+  "team_size": 30
+ },
+ "Spenmo": null,
+ "Sphere": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "sphere",
+  "team_size": 7
+ },
+ "Spine": null,
+ "Splash Inc.": null,
+ "Spot Health": null,
+ "Spott": null,
+ "SpruceID": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "spruceid",
+  "team_size": 25
+ },
+ "Spur": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "spur",
+  "team_size": 8
+ },
+ "Stable": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "stable",
+  "team_size": 30
+ },
+ "Stacksync": null,
+ "Stackup": null,
+ "Standard AI": null,
+ "Standout": null,
+ "Star": null,
+ "Stardex": null,
+ "Stardrift": null,
+ "Stayflexi": null,
+ "Steinmetz": null,
+ "Stepful": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "stepful",
+  "team_size": 100
+ },
+ "Stilta": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "stilta",
+  "team_size": 4
+ },
+ "Stoke Space": null,
+ "Storyboarder": null,
+ "Storylane": null,
+ "Strac": null,
+ "Strada": null,
+ "Streak": null,
+ "Stream": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "stream",
+  "team_size": 15
+ },
+ "Streamable": null,
+ "Streamline Systems": null,
+ "Stripe": {
+  "ats": "greenhouse",
+  "batch": "Summer 2009",
+  "slug": "stripe",
+  "team_size": 7000
+ },
+ "Strive Math": null,
+ "Strong Compute": null,
+ "Structured AI": null,
+ "SubImage": null,
+ "Subsets": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "subsets",
+  "team_size": 7
+ },
+ "Substrate": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "substrate",
+  "team_size": 2
+ },
+ "Suger": null,
+ "Sully": null,
+ "SuperKalam": null,
+ "SuperTokens": null,
+ "Superset": {
+  "ats": "greenhouse",
+  "batch": "Spring 2026",
+  "slug": "superset",
+  "team_size": 4
+ },
+ "Surface Labs": null,
+ "Svix": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "svix",
+  "team_size": 12
+ },
+ "Swadesh": null,
+ "Swayable": {
+  "ats": "greenhouse",
+  "batch": "Winter 2018",
+  "slug": "swayable",
+  "team_size": 30
+ },
+ "Sweep": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "sweep",
+  "team_size": 4
+ },
+ "Sweetspot": null,
+ "Swif.ai": null,
+ "SwiftSku": null,
+ "Sygaldry Technologies": {
+  "ats": "ashby",
+  "batch": "Spring 2025",
+  "slug": "sygaldry-technologies",
+  "team_size": null
+ },
+ "Synapse Semiconductor": null,
+ "Syncly": null,
+ "Synthetic Society": null,
+ "SyntheticFi": null,
+ "Synthio Labs": null,
+ "Syntra": null,
+ "TRM Labs": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "trm-labs",
+  "team_size": 400
+ },
+ "Tab": null,
+ "Tabula": null,
+ "Taiga": null,
+ "Tailor": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "tailor",
+  "team_size": 40
+ },
+ "Taiv": null,
+ "Taktile": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "taktile",
+  "team_size": 150
+ },
+ "Tamarind Bio": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "tamarindbio",
+  "team_size": 20
+ },
+ "Tandem": null,
+ "Tank Payments": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "tank-payments",
+  "team_size": 10
+ },
+ "Taskade": null,
+ "Tasklet": null,
+ "Tavus": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "tavus",
+  "team_size": 75
+ },
+ "TaxGPT": null,
+ "TeamOut": null,
+ "Tekton Dynamics": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "tekton-dynamics",
+  "team_size": 3
+ },
+ "Telmai": null,
+ "Tempo": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "tempo",
+  "team_size": 8
+ },
+ "Tennr": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "tennr",
+  "team_size": 205
+ },
+ "Terminal": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "terminal",
+  "team_size": 17
+ },
+ "Terra API": null,
+ "Terrakotta": null,
+ "Terranox AI": null,
+ "Tesora": null,
+ "Text Blaze": null,
+ "Text.ai": null,
+ "The Forecasting Company": null,
+ "The Juggernaut": null,
+ "The Prompting Company": null,
+ "The Subvocal Company": null,
+ "Theorem": null,
+ "Thera": {
+  "ats": "ashby",
+  "batch": "Summer 2022",
+  "slug": "thera",
+  "team_size": 15
+ },
+ "Theseus": null,
+ "Third Chair": null,
+ "Thirdlayer": null,
+ "Thunder Compute": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "thundercompute",
+  "team_size": 10
+ },
+ "Thunkable": {
+  "ats": "lever",
+  "batch": "Winter 2016",
+  "slug": "thunkable",
+  "team_size": 40
+ },
+ "Tilt (f.k.a. Delphia)": null,
+ "Tint": null,
+ "Titan": {
+  "ats": "ashby",
+  "batch": "Summer 2018",
+  "slug": "titan",
+  "team_size": 40
+ },
+ "Tivara": null,
+ "Toothy AI": null,
+ "Topkey": null,
+ "Topline Pro": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "topline-pro",
+  "team_size": 28
+ },
+ "Topship": null,
+ "Torus": null,
+ "Totalis": null,
+ "Tovala": {
+  "ats": "lever",
+  "batch": "Winter 2016",
+  "slug": "tovala",
+  "team_size": 375
+ },
+ "TraceRoot.AI": null,
+ "Tractian": null,
+ "TransAstra Corporation": null,
+ "Trata": null,
+ "Trayd": null,
+ "Treblo": null,
+ "Trelium": null,
+ "Trellis AI": null,
+ "Triomics": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "triomics",
+  "team_size": 50
+ },
+ "TrueBiz": null,
+ "TrueClaim": null,
+ "Truewind": null,
+ "Truss": null,
+ "TryNearby": null,
+ "Tr\u00e9bol": null,
+ "Tsenta": {
+  "ats": "ashby",
+  "batch": "Summer 2026",
+  "slug": "tsenta",
+  "team_size": 2
+ },
+ "Tuesday Labs": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "tuesday-labs",
+  "team_size": 7
+ },
+ "Turing College": null,
+ "Turing Labs Inc.": null,
+ "Turion Space": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "turion-space",
+  "team_size": 15
+ },
+ "Twenty": {
+  "ats": "ashby",
+  "batch": "Summer 2023",
+  "slug": "twenty",
+  "team_size": 11
+ },
+ "Two Dots": {
+  "ats": "lever",
+  "batch": "Summer 2022",
+  "slug": "twodots",
+  "team_size": 28
+ },
+ "Type": null,
+ "Typewise": null,
+ "UNISON": null,
+ "Ubicloud": null,
+ "Ultra": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "ultra",
+  "team_size": 4
+ },
+ "Unbound": null,
+ "Uno Wallet": null,
+ "Unsiloed AI": null,
+ "Unsloth AI": null,
+ "Unusual": {
+  "ats": "lever",
+  "batch": "Fall 2024",
+  "slug": "unusual",
+  "team_size": 4
+ },
+ "UpCodes": {
+  "ats": "ashby",
+  "batch": "Summer 2017",
+  "slug": "upcodes",
+  "team_size": 35
+ },
+ "Uplane": {
+  "ats": "ashby",
+  "batch": "Fall 2025",
+  "slug": "uplane",
+  "team_size": 26
+ },
+ "Uplift AI": null,
+ "Upsolve": null,
+ "Upsolve AI": null,
+ "Usul": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "usul",
+  "team_size": 15
+ },
+ "VOYGR": null,
+ "Vahan": null,
+ "Vanta": {
+  "ats": "ashby",
+  "batch": "Winter 2018",
+  "slug": "vanta",
+  "team_size": 700
+ },
+ "Vapi": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "vapi",
+  "team_size": 50
+ },
+ "Variance": null,
+ "Variant": null,
+ "Varos": null,
+ "Vector": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "vector",
+  "team_size": 20
+ },
+ "Vector Legal": null,
+ "VectorShift": null,
+ "Vela": null,
+ "Velt": null,
+ "Vena Vitals": null,
+ "Vendah": null,
+ "Vendora": null,
+ "Vendra": null,
+ "Ventura": null,
+ "Venu AI": null,
+ "Vera Health": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "verahealth",
+  "team_size": 6
+ },
+ "Verge Genomics": {
+  "ats": "ashby",
+  "batch": "Summer 2015",
+  "slug": "verge-genomics",
+  "team_size": 50
+ },
+ "VergeSense": {
+  "ats": "lever",
+  "batch": "Summer 2017",
+  "slug": "vergesense",
+  "team_size": 70
+ },
+ "Veritus": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "veritus",
+  "team_size": 10
+ },
+ "Verne Robotics": null,
+ "Vernius Systems, Inc.": null,
+ "Versable": null,
+ "Verse Medical": {
+  "ats": "ashby",
+  "batch": "Summer 2018",
+  "slug": "versemedical",
+  "team_size": 200
+ },
+ "Verto": {
+  "ats": "ashby",
+  "batch": "Winter 2019",
+  "slug": "verto",
+  "team_size": 170
+ },
+ "Veryfi, Inc.": null,
+ "Vesence": null,
+ "Vetcove": {
+  "ats": "ashby",
+  "batch": "Summer 2016",
+  "slug": "vetcove",
+  "team_size": 170
+ },
+ "VideoGen": null,
+ "Vinci Games": null,
+ "Visibl Semiconductors": null,
+ "Vitable Health": null,
+ "Vitalize": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "vitalize",
+  "team_size": 28
+ },
+ "VoiceOS": null,
+ "Voiceops": null,
+ "Volantio": null,
+ "Volaren Inc.": null,
+ "Volta Labs, Inc.": null,
+ "Voltair": null,
+ "Voltic": null,
+ "Vooma": {
+  "ats": "ashby",
+  "batch": "Winter 2023",
+  "slug": "vooma",
+  "team_size": 40
+ },
+ "Vori": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "vori",
+  "team_size": 29
+ },
+ "Vorticity": {
+  "ats": "ashby",
+  "batch": "Summer 2019",
+  "slug": "vorticity",
+  "team_size": 10
+ },
+ "Vouch": null,
+ "Voyager": null,
+ "Vulcan Technologies": null,
+ "Vyra": null,
+ "Waddle Labs": null,
+ "Wardstone": null,
+ "WarpBuild": null,
+ "Wasmer": null,
+ "Wavelength": null,
+ "Wayco": null,
+ "Waydev": null,
+ "Wayline": null,
+ "Weave": {
+  "ats": "ashby",
+  "batch": "Winter 2025",
+  "slug": "weave",
+  "team_size": 16
+ },
+ "Weave Robotics": null,
+ "Webflow": {
+  "ats": "ashby",
+  "batch": "Summer 2013",
+  "slug": "webflow",
+  "team_size": 600
+ },
+ "Wedge": null,
+ "Weekday": null,
+ "Weekend (fmr. Volley)": null,
+ "Wefunder": null,
+ "Whatnot": null,
+ "Wifi Dabba, Inc.": null,
+ "Wildcard": null,
+ "Willow": null,
+ "Windmill": null,
+ "Within": null,
+ "Women Who Code": null,
+ "Wordware": null,
+ "Workers IO": null,
+ "Woz": null,
+ "Wright Electric": null,
+ "Xendit": {
+  "ats": "greenhouse",
+  "batch": "Summer 2015",
+  "slug": "xendit",
+  "team_size": 700
+ },
+ "Y Combinator": {
+  "ats": "ashby",
+  "batch": "Unspecified",
+  "slug": "ycombinator",
+  "team_size": 100
+ },
+ "Y/n": null,
+ "Yarn": null,
+ "Yassir": null,
+ "Yondu": null,
+ "YouShift": null,
+ "Yummy Future": null,
+ "Zalos": null,
+ "Zapier": {
+  "ats": "ashby",
+  "batch": "Summer 2012",
+  "slug": "zapier",
+  "team_size": 700
+ },
+ "Zarna": null,
+ "Zaymo": null,
+ "Zeit AI": {
+  "ats": "ashby",
+  "batch": "Summer 2024",
+  "slug": "zeit-ai",
+  "team_size": 12
+ },
+ "Zen": null,
+ "Zensors": {
+  "ats": "ashby",
+  "batch": "Summer 2021",
+  "slug": "zensors",
+  "team_size": 12
+ },
+ "Zentail": null,
+ "Zenysis": null,
+ "Zep AI": null,
+ "Zettascale Computing": null,
+ "ZiffyHomes": null,
+ "Ziina": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "ziina",
+  "team_size": 57
+ },
+ "Zip": {
+  "ats": "ashby",
+  "batch": "Summer 2020",
+  "slug": "zip",
+  "team_size": 500
+ },
+ "Zippi": {
+  "ats": "lever",
+  "batch": "Summer 2019",
+  "slug": "zippi",
+  "team_size": 60
+ },
+ "Zuddl": null,
+ "Zuma": null,
+ "Zymbly": null,
+ "a0.dev": null,
+ "aSim": null,
+ "adyn": null,
+ "arnata": null,
+ "atopile": null,
+ "attimet": null,
+ "authzed": {
+  "ats": "ashby",
+  "batch": "Winter 2021",
+  "slug": "authzed",
+  "team_size": 31
+ },
+ "b12 Labs": null,
+ "borong": null,
+ "burnt": {
+  "ats": "greenhouse",
+  "batch": "Summer 2025",
+  "slug": "burnt",
+  "team_size": 3
+ },
+ "cmux": null,
+ "cubic": null,
+ "digi": null,
+ "dili": null,
+ "doola": {
+  "ats": "lever",
+  "batch": "Summer 2020",
+  "slug": "doola",
+  "team_size": 43
+ },
+ "ego": null,
+ "flowscope": null,
+ "goodfin": null,
+ "iSono Health": null,
+ "idler": {
+  "ats": "ashby",
+  "batch": "Summer 2025",
+  "slug": "idler",
+  "team_size": 12
+ },
+ "inBuild": null,
+ "item": null,
+ "kapa.ai": null,
+ "loopfour": null,
+ "mdhub": null,
+ "nao Labs": null,
+ "niantic-spatial": {
+  "ats": "ashby",
+  "batch": "",
+  "slug": "niantic-spatial",
+  "team_size": null
+ },
+ "nsave": null,
+ "primitive": null,
+ "reflect-orbital": {
+  "ats": "ashby",
+  "batch": "",
+  "slug": "reflect-orbital",
+  "team_size": null
+ },
+ "screenpipe": null,
+ "shortkit": null,
+ "telli": {
+  "ats": "ashby",
+  "batch": "Fall 2024",
+  "slug": "telli",
+  "team_size": 25
+ },
+ "testRigor": null,
+ "throxy": null,
+ "truemetrics": null,
+ "truthsystems": null,
+ "voize": {
+  "ats": "ashby",
+  "batch": "Winter 2022",
+  "slug": "voize",
+  "team_size": 140
+ },
+ "x1": null,
+ "xPay": null,
+ "yhangry": null,
+ "zudo.work": null
+}
