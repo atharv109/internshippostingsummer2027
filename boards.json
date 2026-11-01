@@ -107,6 +107,7 @@
  },
  "Airhart Aeronautics": null,
  "Airweave": null,
+ "Akiflow": null,
  "Aktoria Robotics": null,
  "Akute Health": null,
  "Alaan": null,
@@ -146,6 +147,7 @@
   "team_size": 150
  },
  "Alpha Vantage": null,
+ "Altur": null,
  "Ambient.ai": null,
  "Amboras": null,
  "Ambral": {
@@ -210,6 +212,7 @@
  "ArchiLabs": null,
  "Archon": null,
  "Ardent": null,
+ "Aren": null,
  "Arini": {
   "ats": "ashby",
   "batch": "Winter 2024",
@@ -224,6 +227,7 @@
  },
  "Arlo Industries": null,
  "Arpari": null,
+ "Array Labs": null,
  "Artie": {
   "ats": "ashby",
   "batch": "Summer 2023",
@@ -308,6 +312,7 @@
   "team_size": 25
  },
  "Atomic Industries": null,
+ "Atrisa": null,
  "Attack Capital": null,
  "Attain": {
   "ats": "greenhouse",
@@ -322,6 +327,8 @@
   "slug": "auctor",
   "team_size": 30
  },
+ "Audun": null,
+ "Augment Inc.": null,
  "Aurelian": {
   "ats": "ashby",
   "batch": "Summer 2022",
@@ -470,6 +477,7 @@
   "slug": "bolster",
   "team_size": 25
  },
+ "Bolto": null,
  "Bond": null,
  "Booko": null,
  "BootLoop": {
@@ -506,6 +514,12 @@
  "Brighterway": null,
  "Broccoli AI": null,
  "Browser Use": null,
+ "Brumby": {
+  "ats": "ashby",
+  "batch": "Winter 2026",
+  "slug": "brumby",
+  "team_size": 3
+ },
  "Brumby (Formerly GrazeMate)": {
   "ats": "ashby",
   "batch": "Winter 2026",
@@ -649,6 +663,7 @@
   "slug": "centralize",
   "team_size": 9
  },
+ "Cercli": null,
  "Cerrion": null,
  "Cerulion": null,
  "Channel3": null,
@@ -679,6 +694,7 @@
   "team_size": 2
  },
  "Chima": null,
+ "Cifrato": null,
  "Cinder": {
   "ats": "ashby",
   "batch": "Winter 2022",
@@ -780,6 +796,12 @@
   "slug": "comena",
   "team_size": 8
  },
+ "CommodityAI": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "commodityai",
+  "team_size": 6
+ },
  "Community Phone Company": null,
  "Complete": {
   "ats": "ashby",
@@ -787,6 +809,7 @@
   "slug": "complete",
   "team_size": 5
  },
+ "Complif": null,
  "Complir": {
   "ats": "ashby",
   "batch": "Spring 2026",
@@ -841,8 +864,10 @@
  "Copperlane": null,
  "CopyCat AI": null,
  "Corgea": null,
+ "Corgi": null,
  "Corgi Insurance": null,
  "Coris": null,
+ "Corvera": null,
  "Cosine": {
   "ats": "ashby",
   "batch": "Winter 2023",
@@ -850,6 +875,7 @@
   "team_size": 12
  },
  "Cotera": null,
+ "Cotool": null,
  "Coulomb AI": null,
  "Coval": null,
  "Covera": null,
@@ -908,6 +934,7 @@
   "slug": "david-ai",
   "team_size": 10
  },
+ "Decisional AI": null,
  "Decoda Health": {
   "ats": "ashby",
   "batch": "Summer 2023",
@@ -942,6 +969,7 @@
  "Delfino AI": null,
  "Dench.com": null,
  "Denta": null,
+ "Dexter": null,
  "Diffuse Bio": null,
  "DigiBuild": null,
  "Digipals": null,
@@ -1010,6 +1038,7 @@
   "slug": "duffel",
   "team_size": 55
  },
+ "Durate": null,
  "Dynamo AI": null,
  "Dyneti Technologies": null,
  "Eden": null,
@@ -1100,6 +1129,7 @@
   "team_size": 18
  },
  "Every": null,
+ "Evidence": null,
  "Exonic": null,
  "Explorex": null,
  "Eze": null,
@@ -1281,7 +1311,14 @@
   "slug": "goatgroup",
   "team_size": 1600
  },
+ "GUILD": {
+  "ats": "ashby",
+  "batch": "Summer 2026",
+  "slug": "guild",
+  "team_size": 2
+ },
  "Galactic Resource Utilization Space, Inc. (GRU Space)": null,
+ "Gale": null,
  "Garage": {
   "ats": "ashby",
   "batch": "Winter 2024",
@@ -1307,6 +1344,7 @@
  },
  "GetCrux": null,
  "GetDot": null,
+ "GhostEye": null,
  "Giga": null,
  "Gigs": {
   "ats": "ashby",
@@ -1368,6 +1406,12 @@
   "slug": "greenboard",
   "team_size": 35
  },
+ "Greptile": {
+  "ats": "ashby",
+  "batch": "Winter 2024",
+  "slug": "greptile",
+  "team_size": 35
+ },
  "Gridware": {
   "ats": "lever",
   "batch": "Winter 2021",
@@ -1426,6 +1470,7 @@
   "team_size": 11
  },
  "HappyRobot": null,
+ "Harbera": null,
  "Harper": null,
  "Haven": {
   "ats": "greenhouse",
@@ -1434,6 +1479,12 @@
   "team_size": 3
  },
  "Haystack": null,
+ "Hazel": {
+  "ats": "greenhouse",
+  "batch": "Winter 2024",
+  "slug": "hazel",
+  "team_size": 7
+ },
  "Healia": null,
  "Health Harbor": null,
  "HealthKey": null,
@@ -1450,6 +1501,7 @@
   "team_size": 2
  },
  "Helios": null,
+ "Helios Intelligence": null,
  "Helium": null,
  "Hellometer": null,
  "Helloverify": null,
@@ -1460,6 +1512,7 @@
  "Hey Telo": null,
  "HeyCharge": null,
  "HiOperator": null,
+ "HillStar": null,
  "Hirebolt": null,
  "HitPay": null,
  "Hive": {
@@ -1547,6 +1600,7 @@
  "Imperfect": null,
  "Imprezia": null,
  "InEvent": null,
+ "InLoop Robotics": null,
  "Indemni": null,
  "Inden": null,
  "Infer": null,
@@ -1564,6 +1618,7 @@
   "slug": "infisical",
   "team_size": 50
  },
+ "Inflection Space Systems": null,
  "InfluxData": {
   "ats": "ashby",
   "batch": "Winter 2013",
@@ -1620,6 +1675,7 @@
  "Ironclad": null,
  "JABU": null,
  "JITX": null,
+ "Janeen": null,
  "Jarmin": null,
  "Jeevy Fabrication": {
   "ats": "ashby",
@@ -1734,6 +1790,7 @@
  "KugelAudio": null,
  "Kuli": null,
  "Kyber": null,
+ "LATO": null,
  "LFcarry": null,
  "Lab0": null,
  "Lago": {
@@ -1743,6 +1800,7 @@
   "team_size": 27
  },
  "Lamar Health": null,
+ "Lamb Labs": null,
  "Lambda Robotics": null,
  "Laminar": null,
  "Lance": {
@@ -1772,6 +1830,7 @@
   "slug": "latent",
   "team_size": 50
  },
+ "Latted": null,
  "Lattice": {
   "ats": "greenhouse",
   "batch": "Winter 2016",
@@ -1852,9 +1911,11 @@
  },
  "Locata": null,
  "Locke": null,
+ "Logical": null,
  "Loombotic": null,
  "LootRush": null,
  "Luca IQ": null,
+ "Lucebox": null,
  "Lucid": null,
  "Lucis": {
   "ats": "ashby",
@@ -1932,6 +1993,7 @@
  "Mbodi AI": null,
  "Measured": null,
  "MedMe Health": null,
+ "Mederva": null,
  "Mednet": {
   "ats": "ashby",
   "batch": "Winter 2017",
@@ -2016,7 +2078,9 @@
  },
  "Misprint": null,
  "MixRank": null,
+ "Miyagi Labs": null,
  "MochaCare": null,
+ "Mochi": null,
  "Model ML": null,
  "Modern Health": {
   "ats": "greenhouse",
@@ -2142,6 +2206,7 @@
  "Noloco": null,
  "Nomic Bio": null,
  "Noora Health": null,
+ "Nori": null,
  "Notabene": {
   "ats": "ashby",
   "batch": "Summer 2020",
@@ -2186,6 +2251,7 @@
  "Numero": null,
  "OS3": null,
  "OWNY": null,
+ "OctaPulse": null,
  "Ocular AI": null,
  "Odeko": {
   "ats": "greenhouse",
@@ -2284,6 +2350,7 @@
  "Orca Aerospace": null,
  "Orchid": null,
  "Origin": null,
+ "Orthogonal": null,
  "Osium AI": null,
  "Osmosis": {
   "ats": "greenhouse",
@@ -2298,6 +2365,7 @@
   "slug": "output",
   "team_size": 8
  },
+ "Output Labs": null,
  "Outset": {
   "ats": "ashby",
   "batch": "Summer 2023",
@@ -2311,6 +2379,7 @@
   "slug": "overview",
   "team_size": 40
  },
+ "Oway": null,
  "Oxus": null,
  "Oxygen": null,
  "PAX Markets": null,
@@ -2337,6 +2406,7 @@
  "Pango": null,
  "Pangolin": null,
  "ParadeDB": null,
+ "Paradev (formerly Superset)": null,
  "Paradigm": {
   "ats": "ashby",
   "batch": "Winter 2024",
@@ -2442,6 +2512,7 @@
  "Plena Health": null,
  "Plexe": null,
  "Ploy": null,
+ "Pluto": null,
  "Pocket": null,
  "PocketSuite": null,
  "Podium": null,
@@ -2627,6 +2698,7 @@
  },
  "REVER": null,
  "ROE": null,
+ "Rainbrand": null,
  "Raindrop": {
   "ats": "ashby",
   "batch": "Winter 2024",
@@ -2664,6 +2736,7 @@
   "slug": "reacher",
   "team_size": 10
  },
+ "ReactWise": null,
  "Readily": null,
  "Ready": {
   "ats": "ashby",
@@ -2829,6 +2902,7 @@
   "team_size": 100
  },
  "Runtime": null,
+ "Runtime.si": null,
  "Runway": {
   "ats": "ashby",
   "batch": "Winter 2021",
@@ -2886,6 +2960,7 @@
  "Sapling.ai": null,
  "Saturn": null,
  "Sava": null,
+ "Sava Trust Company": null,
  "Scalar Field": null,
  "Scale AI": {
   "ats": "greenhouse",
@@ -2961,6 +3036,7 @@
   "team_size": 38
  },
  "SigmaOS": null,
+ "Signatur Biosciences": null,
  "Silimate": null,
  "SilkChart": null,
  "Silurian": null,
@@ -3070,6 +3146,7 @@
   "team_size": 40
  },
  "Speedy Labs": null,
+ "Speko": null,
  "Spellbrush": {
   "ats": "ashby",
   "batch": "Winter 2018",
@@ -3083,6 +3160,7 @@
   "slug": "sphere",
   "team_size": 7
  },
+ "Spice Data": null,
  "Spine": null,
  "Splash Inc.": null,
  "Spot Health": null,
@@ -3110,6 +3188,7 @@
  "Standard AI": null,
  "Standout": null,
  "Star": null,
+ "Starcloud": null,
  "Stardex": null,
  "Stardrift": null,
  "Stayflexi": null,
@@ -3126,6 +3205,7 @@
   "slug": "stilta",
   "team_size": 4
  },
+ "Stoa": null,
  "Stoke Space": null,
  "Storyboarder": null,
  "Storylane": null,
@@ -3164,6 +3244,8 @@
  },
  "Suger": null,
  "Sully": null,
+ "Sunflower": null,
+ "Super Powers Mobility (SPM)": null,
  "SuperKalam": null,
  "SuperTokens": null,
  "Superset": {
@@ -3271,6 +3353,12 @@
   "slug": "tennr",
   "team_size": 205
  },
+ "Tenor": {
+  "ats": "ashby",
+  "batch": "Summer 2026",
+  "slug": "tenor",
+  "team_size": 3
+ },
  "Terminal": {
   "ats": "ashby",
   "batch": "Summer 2023",
@@ -3287,6 +3375,7 @@
  "The Juggernaut": null,
  "The Prompting Company": null,
  "The Subvocal Company": null,
+ "The Vibe Company": null,
  "Theorem": null,
  "Thera": {
   "ats": "ashby",
@@ -3336,7 +3425,9 @@
   "team_size": 375
  },
  "TraceRoot.AI": null,
+ "Tracecat": null,
  "Tractian": null,
+ "TrainLoop": null,
  "TransAstra Corporation": null,
  "Trata": null,
  "Trayd": null,
@@ -3401,6 +3492,7 @@
  "Uno Wallet": null,
  "Unsiloed AI": null,
  "Unsloth AI": null,
+ "Untether Labs": null,
  "Unusual": {
   "ats": "lever",
   "batch": "Fall 2024",
@@ -3521,6 +3613,7 @@
  "VoiceOS": null,
  "Voiceops": null,
  "Volantio": null,
+ "Volaren": null,
  "Volaren Inc.": null,
  "Volta Labs, Inc.": null,
  "Voltair": null,
@@ -3572,13 +3665,21 @@
  "Weekday": null,
  "Weekend (fmr. Volley)": null,
  "Wefunder": null,
+ "Westgate": null,
  "Whatnot": null,
  "Wifi Dabba, Inc.": null,
  "Wildcard": null,
  "Willow": null,
  "Windmill": null,
+ "Wingman Law": null,
  "Within": null,
  "Women Who Code": null,
+ "Wonderly": {
+  "ats": "ashby",
+  "batch": "Winter 2020",
+  "slug": "wonderly",
+  "team_size": 75
+ },
  "Wordware": null,
  "Workers IO": null,
  "Woz": null,
@@ -3609,6 +3710,7 @@
   "team_size": 700
  },
  "Zarna": null,
+ "Zatanna": null,
  "Zaymo": null,
  "Zeit AI": {
   "ats": "ashby",
@@ -3646,7 +3748,9 @@
   "slug": "zippi",
   "team_size": 60
  },
+ "Zolvo": null,
  "Zuddl": null,
+ "Zudo": null,
  "Zuma": null,
  "Zymbly": null,
  "a0.dev": null,
