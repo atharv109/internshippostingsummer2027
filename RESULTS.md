@@ -1,61 +1,62 @@
 # Startup software internships not on SimplifyJobs
 
-Updated 2026-11-11 18:43 UTC. 55 open to F-1 students, 2 excluded for citizenship/ITAR/sponsorship wording (see results.csv). Sorted fewest likely applicants first.
+Updated 2026-11-12 18:58 UTC. 56 open to F-1 students, 2 excluded for citizenship/ITAR/sponsorship wording (see results.csv). Sorted fewest likely applicants first.
 
 | Company | Role | Location | Age | Team | Pay | Link |
 |---|---|---|---|---|---|---|
-| Bitmovin | Software Engineer Intern - Summer 2027 (AI & Beyond Incubator) | Vienna; Klagenfurt; Berlin | 16d | 145 |  | [Apply](https://bitmovin.com/careers/8916523002?gh_jid=8916523002) |
-| Julius | Investment Banking - AI Research (MBA Intern) | Remote | 21d | 10 | $2K – $12K per week • Offers Bonus | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
-| Escape | DevSecOps Engineer - Final year Internship - Stage PFE | Paris Office | 21d | 29 | None | [Apply](https://jobs.ashbyhq.com/Escape/07b934bc-7468-4a04-ac8f-385f4e9f4c46) |
-| Sygaldry Technologies | Internship/Research Engineer | Ann Arbor | 21d |  | None | [Apply](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) |
-| Orbital Operations | Summer 2027 Internship - Engineering | Long Beach, CA | 22d | 10 |  | [Apply](https://job-boards.greenhouse.io/orbitaloperations/jobs/4375099009) |
-| Taktile | Software Engineer Internship for HPI Students | Berlin Office  | 28d | 150 | None | [Apply](https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a) |
-| Eight Sleep | Security & IT Intern | Remote - US | 33d | 100 | None | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550) |
-| Taktile | Software Engineer Intern | Iasi Office | 35d | 150 | None | [Apply](https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1) |
-| Relling | Controls Engineering Intern | San Francisco | 39d |  | None | [Apply](https://jobs.ashbyhq.com/Relling/7bd1608d-00e2-432a-b2ff-99ce92c13cf3) |
-| Relling | Robotics Software Engineering Intern | San Francisco | 39d |  | None | [Apply](https://jobs.ashbyhq.com/Relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e) |
-| Relling | Mechatronics Engineering Intern | San Francisco | 39d |  | None | [Apply](https://jobs.ashbyhq.com/Relling/91369822-84d7-4d24-b2e8-287201f00acd) |
-| HackerRank | Software Development Engineer Intern | Onsite in Bangalore | 41d | 300 |  | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
-| reflect-orbital | Mission Operations Engineering Intern | Hawthorne, CA | 47d |  | $27 – $31 per hour | [Apply](https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc) |
-| reflect-orbital | Ground Software Engineering Intern | Hawthorne, CA | 47d |  | $27 – $31 per hour | [Apply](https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952) |
-| FamPay | Security Engineer Intern | Bengaluru | 49d | 24 |  | [Apply](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
-| AfterQuery | AI/ML Research Intern | San Francisco | 60d | 30 | $8K per month | [Apply](https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde) |
-| Bree | Software Engineer, Backend (Co-op) | Toronto | 67d | 2 | None | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
-| Bree | Software Engineer, Product (Co-op) | Toronto | 67d | 2 | None | [Apply](https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88) |
-| reflect-orbital | Flight Software Engineering Intern | Hawthorne, CA | 69d |  | $27 – $31 per hour | [Apply](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2) |
-| Dedalus Labs | Platform Engineer Intern / Co-op | San Francisco | 88d | 8 | $25 – $50 per hour | [Apply](https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c) |
-| Conveo | Engineering Internship | Antwerp | 99d | 90 | None | [Apply](https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f) |
-| One Robot | Machine Learning Intern | San Francisco | 109d | 2 | $6K – $8K per month | [Apply](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571) |
-| Bild AI | AI/SWE Intern | San Francisco | 114d | 9 | $3K – $10K per month | [Apply](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364) |
-| Bree | Machine Learning Engineering, Intern | Toronto | 119d | 2 | None | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
-| Dedalus Labs | Systems Engineer Intern / Co-op | San Francisco | 132d | 8 | $25 – $50 per hour | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6) |
-| CTGT | Software Engineering Intern (Summer 2027) | San Francisco | 137d | 10 | $8K – $12K per month • Will Sponsor | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
-| Circleback | Software Engineering Intern (Summer 2027) | San Francisco | 153d | 8 | $7K – $10K per month | [Apply](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) |
-| Comena | Software Engineering Intern | Munich | 155d | 8 | None | [Apply](https://jobs.ashbyhq.com/comena/7e547b6e-ddb5-4294-8530-84d3001a3cef) |
-| Overview | Engineering Intern | Taipei | 177d | 40 | None | [Apply](https://jobs.ashbyhq.com/overview/d0f32974-e8fd-4c77-bea8-e6c49dc25a9d) |
-| Phonely | Software Engineer Intern | San Francisco, California | 187d | 10 | None | [Apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) |
-| Revise Robotics | Engineering Intern — Summer/Fall 2026 | New York City | 202d | 3 | $8K – $12K per month | [Apply](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633) |
-| Auctor | Software Engineering Intern | New York | 211d | 30 | $80 per hour | [Apply](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) |
-| Odys Aviation | Systems Engineering and Integration Intern | Long Beach CA | 226d | 11 | None | [Apply](https://jobs.ashbyhq.com/odys-aviation/e8a1cc98-f655-45dc-850a-2460f1da6826) |
-| Multiply Labs | Robotics Software Intern | San Francisco | 264d | 36 |  | [Apply](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) |
-| Multiply Labs | Software Intern | San Francisco | 264d | 36 |  | [Apply](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) |
-| Sendbird |  AI Agent Engineer, Intern | Seoul, South Korea | 357d | 300 |  | [Apply](https://sendbird.com/careers?gh_jid=8276676002) |
-| AfterQuery | Software Engineering Intern | San Francisco | 358d | 30 | $10K per month | [Apply](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b) |
-| Astro Mechanica | Test Engineering Intern | East Bay Area | 8d | 52 | $40 – $55 per hour | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/06ecc8a2-5153-4257-8e54-eb9326a31982) |
-| Astro Mechanica | GNC Engineering Intern | San Francisco | 8d | 52 | $40 – $55 per hour | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40) |
-| Stripe | Data Analyst, Intern | Toronto | 41d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
-| Stripe | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | 41d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) |
-| Stripe | PhD Data Scientist, Intern | Toronto | 41d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) |
-| Stripe | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | 41d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) |
-| Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | 47d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) |
-| Stripe | Integration Reliability Engineer Intern, Technical Operations | Singapore | 49d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8186367) |
-| Gecko Robotics | Test & Reliability Engineering Intern | Pittsburgh | 57d | 230 | None | [Apply](https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85) |
-| Scale AI | Software Engineering Intern (Summer 2027)  | Doha, Qatar  | 58d | 500 |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) |
-| Stripe | Software Engineer, Intern | Singapore | 65d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) |
-| Scale AI | Software Engineering Intern (Summer 2027)  | San Francisco, CA | 68d | 500 |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
-| Stripe | Software Engineer, Intern | London | 71d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) |
-| Stripe | Software Engineer, Intern  | Bucharest | 71d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) |
-| Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | 71d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
-| Stripe | Software Engineer, Intern (Summer or Winter) | Toronto | 71d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
-| Stripe | Software Engineer, Intern (Summer or Winter) | Dublin | 86d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) |
-| Stripe | Software Engineer, Intern | Bengaluru | 124d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
+| HackerRank | AI Researcher Intern | Onsite in Bangalore | 15d | 300 |  | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) |
+| Bitmovin | Software Engineer Intern - Summer 2027 (AI & Beyond Incubator) | Vienna; Klagenfurt; Berlin | 17d | 145 |  | [Apply](https://bitmovin.com/careers/8916523002?gh_jid=8916523002) |
+| Julius | Investment Banking - AI Research (MBA Intern) | Remote | 22d | 10 | $2K – $12K per week • Offers Bonus | [Apply](https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc) |
+| Escape | DevSecOps Engineer - Final year Internship - Stage PFE | Paris Office | 22d | 29 | None | [Apply](https://jobs.ashbyhq.com/Escape/07b934bc-7468-4a04-ac8f-385f4e9f4c46) |
+| Sygaldry Technologies | Internship/Research Engineer | Ann Arbor | 22d |  | None | [Apply](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) |
+| Orbital Operations | Summer 2027 Internship - Engineering | Long Beach, CA | 23d | 10 |  | [Apply](https://job-boards.greenhouse.io/orbitaloperations/jobs/4375099009) |
+| Taktile | Software Engineer Internship for HPI Students | Berlin Office  | 29d | 150 | None | [Apply](https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a) |
+| Eight Sleep | Security & IT Intern | Remote - US | 34d | 100 | None | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550) |
+| Taktile | Software Engineer Intern | Iasi Office | 36d | 150 | None | [Apply](https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1) |
+| Relling | Controls Engineering Intern | San Francisco | 40d |  | None | [Apply](https://jobs.ashbyhq.com/Relling/7bd1608d-00e2-432a-b2ff-99ce92c13cf3) |
+| Relling | Robotics Software Engineering Intern | San Francisco | 40d |  | None | [Apply](https://jobs.ashbyhq.com/Relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e) |
+| Relling | Mechatronics Engineering Intern | San Francisco | 40d |  | None | [Apply](https://jobs.ashbyhq.com/Relling/91369822-84d7-4d24-b2e8-287201f00acd) |
+| HackerRank | Software Development Engineer Intern | Onsite in Bangalore | 42d | 300 |  | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
+| reflect-orbital | Mission Operations Engineering Intern | Hawthorne, CA | 48d |  | $27 – $31 per hour | [Apply](https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc) |
+| reflect-orbital | Ground Software Engineering Intern | Hawthorne, CA | 48d |  | $27 – $31 per hour | [Apply](https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952) |
+| FamPay | Security Engineer Intern | Bengaluru | 50d | 24 |  | [Apply](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
+| AfterQuery | AI/ML Research Intern | San Francisco | 61d | 30 | $8K per month | [Apply](https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde) |
+| Bree | Software Engineer, Backend (Co-op) | Toronto | 68d | 2 | None | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
+| Bree | Software Engineer, Product (Co-op) | Toronto | 68d | 2 | None | [Apply](https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88) |
+| reflect-orbital | Flight Software Engineering Intern | Hawthorne, CA | 70d |  | $27 – $31 per hour | [Apply](https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2) |
+| Dedalus Labs | Platform Engineer Intern / Co-op | San Francisco | 89d | 8 | $25 – $50 per hour | [Apply](https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c) |
+| Conveo | Engineering Internship | Antwerp | 100d | 90 | None | [Apply](https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f) |
+| One Robot | Machine Learning Intern | San Francisco | 110d | 2 | $6K – $8K per month | [Apply](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571) |
+| Bild AI | AI/SWE Intern | San Francisco | 115d | 9 | $3K – $10K per month | [Apply](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364) |
+| Bree | Machine Learning Engineering, Intern | Toronto | 120d | 2 | None | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
+| Dedalus Labs | Systems Engineer Intern / Co-op | San Francisco | 133d | 8 | $25 – $50 per hour | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6) |
+| CTGT | Software Engineering Intern (Summer 2027) | San Francisco | 138d | 10 | $8K – $12K per month • Will Sponsor | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
+| Circleback | Software Engineering Intern (Summer 2027) | San Francisco | 154d | 8 | $7K – $10K per month | [Apply](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) |
+| Comena | Software Engineering Intern | Munich | 156d | 8 | None | [Apply](https://jobs.ashbyhq.com/comena/7e547b6e-ddb5-4294-8530-84d3001a3cef) |
+| Overview | Engineering Intern | Taipei | 178d | 40 | None | [Apply](https://jobs.ashbyhq.com/overview/d0f32974-e8fd-4c77-bea8-e6c49dc25a9d) |
+| Phonely | Software Engineer Intern | San Francisco, California | 188d | 10 | None | [Apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) |
+| Revise Robotics | Engineering Intern — Summer/Fall 2026 | New York City | 203d | 3 | $8K – $12K per month | [Apply](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633) |
+| Auctor | Software Engineering Intern | New York | 212d | 30 | $80 per hour | [Apply](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) |
+| Odys Aviation | Systems Engineering and Integration Intern | Long Beach CA | 227d | 11 | None | [Apply](https://jobs.ashbyhq.com/odys-aviation/e8a1cc98-f655-45dc-850a-2460f1da6826) |
+| Multiply Labs | Robotics Software Intern | San Francisco | 265d | 36 |  | [Apply](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) |
+| Multiply Labs | Software Intern | San Francisco | 265d | 36 |  | [Apply](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) |
+| Sendbird |  AI Agent Engineer, Intern | Seoul, South Korea | 358d | 300 |  | [Apply](https://sendbird.com/careers?gh_jid=8276676002) |
+| AfterQuery | Software Engineering Intern | San Francisco | 359d | 30 | $10K per month | [Apply](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b) |
+| Astro Mechanica | Test Engineering Intern | East Bay Area | 9d | 52 | $40 – $55 per hour | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/06ecc8a2-5153-4257-8e54-eb9326a31982) |
+| Astro Mechanica | GNC Engineering Intern | San Francisco | 9d | 52 | $40 – $55 per hour | [Apply](https://jobs.ashbyhq.com/Astro-Mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40) |
+| Stripe | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | 42d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) |
+| Stripe | Data Analyst, Intern | Toronto | 42d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
+| Stripe | PhD Data Scientist, Intern | Toronto | 42d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) |
+| Stripe | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | 42d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) |
+| Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | 48d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) |
+| Stripe | Integration Reliability Engineer Intern, Technical Operations | Singapore | 50d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8186367) |
+| Gecko Robotics | Test & Reliability Engineering Intern | Pittsburgh | 58d | 230 | None | [Apply](https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85) |
+| Scale AI | Software Engineering Intern (Summer 2027)  | Doha, Qatar  | 59d | 500 |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) |
+| Stripe | Software Engineer, Intern | Singapore | 66d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) |
+| Scale AI | Software Engineering Intern (Summer 2027)  | San Francisco, CA | 69d | 500 |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
+| Stripe | Software Engineer, Intern | London | 72d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130867) |
+| Stripe | Software Engineer, Intern  | Bucharest | 72d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) |
+| Stripe | Software Engineer, Intern (Summer) | Toronto | 72d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
+| Stripe | Software Engineer, Intern (Summer) | San Francisco, Seattle, New York City | 72d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
+| Stripe | Software Engineer, Intern (Summer or Winter) | Dublin | 87d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8097801) |
+| Stripe | Software Engineer, Intern | Bengaluru | 125d | 7000 |  | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
